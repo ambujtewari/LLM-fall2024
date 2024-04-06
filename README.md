@@ -39,6 +39,6 @@ An advanced graduate level course on transformers and LLMs at the University of 
 
 ## LLMs and Foundation Models for Science and Mathematics
 
-[On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/assets/report.pdf)
-[https://midas.umich.edu/ai-se-annual-symposium/]
-[https://micde.umich.edu/news-events/annual-symposia/2024-symposium/]
+[On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/assets/report.pdf)    
+[https://midas.umich.edu/ai-se-annual-symposium/]    
+[https://micde.umich.edu/news-events/annual-symposia/2024-symposium/]    
