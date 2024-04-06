@@ -31,4 +31,14 @@ An advanced graduate level course on transformers and LLMs at the University of 
 
 ## LLMs and Cognitive Science, Linguistics, Neuroscience
 
+[The debate over understanding in AI’s large language models](https://www.pnas.org/doi/abs/10.1073/pnas.2215907120)    
 [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)    
+[Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
+[Modern language models refute Chomsky’s approach to language](https://lingbuzz.net/lingbuzz/007180)    
+[Dissociating language and thought in large language models](https://arxiv.org/pdf/2301.06627.pdf)
+
+## LLMs and Foundation Models for Science and Mathematics
+
+[On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/assets/report.pdf)
+[https://midas.umich.edu/ai-se-annual-symposium/]
+[https://micde.umich.edu/news-events/annual-symposia/2024-symposium/]
