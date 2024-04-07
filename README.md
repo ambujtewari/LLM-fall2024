@@ -25,7 +25,7 @@ Borealis AI blog series:
 [What can a Single Attention Layer Learn? A Study Through the Random Features Lens](https://arxiv.org/pdf/2307.11353.pdf)    
 [Inductive Biases and Variable Creation in Self-Attention Mechanisms](https://arxiv.org/pdf/2110.10090.pdf)    
 
-## Implicit Rregularization
+## Implicit Regularization
 
 [Implicit Regularization of Gradient Flow on One-Layer Softmax Attention](https://arxiv.org/pdf/2403.08699.pdf)    
 
@@ -62,8 +62,8 @@ Borealis AI blog series:
 
 ## RLHF
 
-[Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
-[Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)
+[Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)    
+[Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)    
 
 ## State Space Models
 
