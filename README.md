@@ -25,6 +25,10 @@ Borealis AI blog series:
 [What can a Single Attention Layer Learn? A Study Through the Random Features Lens](https://arxiv.org/pdf/2307.11353.pdf)    
 [Inductive Biases and Variable Creation in Self-Attention Mechanisms](https://arxiv.org/pdf/2110.10090.pdf)    
 
+## Implicit Rregularization
+
+[Implicit Regularization of Gradient Flow on One-Layer Softmax Attention](https://arxiv.org/pdf/2403.08699.pdf)    
+
 ## Basics of Transformers
 
 [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238.pdf)    
