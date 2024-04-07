@@ -65,6 +65,10 @@ Borealis AI blog series:
 [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)    
 [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/pdf/2402.01032.pdf)    
 
+## Transformers as Interacting Particle Systems
+
+[A mathematical perspective on Transformers](https://arxiv.org/pdf/2312.10794.pdf)
+
 ## Transformers in RL
 
 [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/pdf/2307.05979.pdf)
