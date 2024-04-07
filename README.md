@@ -7,7 +7,7 @@ The Attention mechanism and the Transformer architecture have completely changed
 [Stanford](https://stanford-cs324.github.io/winter2022/)    
 [Princeton](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)    
 [Berkeley](https://rdi.berkeley.edu/understanding_llms/s24)    
-[Michigan ECE](https://www.dropbox.com/scl/fi/xx8bu60mpn2rg84txmr9x/EECS598_LLM_syllabus.pdf?rlkey=q4lgtwtlce8gkbr07tqje0srj&dl=0)    
+[Michigan EECS](https://www.dropbox.com/scl/fi/xx8bu60mpn2rg84txmr9x/EECS598_LLM_syllabus.pdf?rlkey=q4lgtwtlce8gkbr07tqje0srj&dl=0)    
 Borealis AI blog series:
 - [Intro to LLMs](https://www.borealisai.com/research-blogs/a-high-level-overview-of-large-language-models/)
 - [Transformers I](https://www.borealisai.com/en/blog/tutorial-14-transformers-i-introduction/)
