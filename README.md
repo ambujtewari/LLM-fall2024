@@ -18,7 +18,7 @@ The Attention mechanism and the Transformer architecture have completely changed
 
 ## NTK Theory for Transformers
 
-[Infinite attention: NNGP and NTK for deep attention networks](https://arxiv.org/pdf/2006.10540.pdf)
+[Infinite attention: NNGP and NTK for deep attention networks](https://arxiv.org/pdf/2006.10540.pdf)    
 [Tensor Programs II: Neural Tangent Kernel for Any Architecture](https://arxiv.org/pdf/2006.14548.pdf)
 
 ## Capabilities and Limitations of Transformers
