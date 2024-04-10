@@ -67,6 +67,7 @@ Borealis AI blog series:
 
 [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)    
 [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)    
+[Efficient Exploration for LLMs](https://arxiv.org/pdf/2402.00396.pdf)    
 
 ## State Space Models
 
