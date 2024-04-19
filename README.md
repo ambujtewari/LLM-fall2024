@@ -99,7 +99,10 @@ Borealis AI blog series:
 [Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)    
 [Modern language models refute Chomsky’s approach to language](https://lingbuzz.net/lingbuzz/007180)    
 [Dissociating language and thought in large language models](https://arxiv.org/pdf/2301.06627.pdf)  
-[Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve](https://arxiv.org/pdf/2309.13638.pdf)
+[Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve](https://arxiv.org/pdf/2309.13638.pdf)  
+[Shared computational principles for language processing in humans and deep language models](https://doi.org/10.1038/s41593-022-01026-4)  
+[The neural architecture of language: Integrative modeling converges on predictive processing](https://doi.org/10.1073/pnas.2105646118)  
+[Predictive Coding or Just Feature Discovery? An Alternative Account of Why Language Models Fit Brain Data](https://doi.org/10.1162/nol_a_00087)  
 
 ## LLMs and Foundation Models for Science and Mathematics
 
