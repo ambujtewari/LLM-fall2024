@@ -4,6 +4,9 @@ The Attention mechanism and the Transformer architecture have completely changed
 
 _Note_: This course is primarily meant for Statistics PhD students. Others will need instructor's permission to enroll. Graduate coursework in statistics, theoretical computer science, mathematics, or related disciplines required. Students will be expected to possess that hard-to-define quality usually referred to as "mathematical maturity". 
 
+* TOC
+{:toc}
+
 # List of Courses / Blogs
 
 [Stanford](https://stanford-cs324.github.io/winter2022/)    
