@@ -55,7 +55,7 @@ Borealis AI blog series:
 [Self-Attention Networks Can Process Bounded Hierarchical Languages](https://arxiv.org/pdf/2105.11115.pdf)    
 [On Limitations of the Transformer Architecture](https://arxiv.org/pdf/2402.08164.pdf)    
 
-## Beyond PAC Learning: Learning Disributions and Grammars
+## Beyond PAC Learning: Learning Distributions and Grammars
 
 [On the Learnability of Discrete Distributions](https://dl.acm.org/doi/pdf/10.1145/195058.195155)  
 [Grammatical Inference Learning Automata and Grammars](https://www.cambridge.org/us/universitypress/subjects/computer-science/pattern-recognition-and-machine-learning/grammatical-inference-learning-automata-and-grammars?format=HB&isbn=9780521763165)  
