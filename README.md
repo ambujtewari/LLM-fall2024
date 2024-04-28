@@ -55,6 +55,7 @@ Borealis AI blog series:
 [Theoretical Limitations of Self-Attention in Neural Sequence Models](https://arxiv.org/pdf/1906.06755.pdf)    
 [Self-Attention Networks Can Process Bounded Hierarchical Languages](https://arxiv.org/pdf/2105.11115.pdf)    
 [On Limitations of the Transformer Architecture](https://arxiv.org/pdf/2402.08164.pdf)    
+[Transformers Learn Shortcuts to Automata](https://arxiv.org/pdf/2210.10749)  
 
 ## Beyond PAC Learning: Learning Distributions and Grammars
 
@@ -74,6 +75,7 @@ Borealis AI blog series:
 [Supervised Pretraining Can Learn In-Context Reinforcement Learning](https://arxiv.org/pdf/2306.14892.pdf)    
 [Large Language Models can Implement Policy Iteration](https://proceedings.neurips.cc/paper_files/paper/2023/file/60dc7fa827f5f761ad481e2ad40b5573-Paper-Conference.pdf)    
 [Trainable Transformer in Transformer](https://arxiv.org/pdf/2307.01189)  
+[The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains](https://arxiv.org/pdf/2402.11004)  
 
 ## Assessing Model Uncertainty 
 
