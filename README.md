@@ -44,6 +44,7 @@ Borealis AI blog series:
 
 [Infinite attention: NNGP and NTK for deep attention networks](https://arxiv.org/pdf/2006.10540.pdf)    
 [Tensor Programs II: Neural Tangent Kernel for Any Architecture](https://arxiv.org/pdf/2006.14548.pdf)
+[A Kernel-Based View of Language Model Fine-Tuning](https://proceedings.mlr.press/v202/malladi23a/malladi23a.pdf)
 
 ## Capabilities and Limitations of Transformers
 
@@ -72,6 +73,7 @@ Borealis AI blog series:
 [The Learnability of In-Context Learning](https://arxiv.org/pdf/2303.07895.pdf)    
 [Supervised Pretraining Can Learn In-Context Reinforcement Learning](https://arxiv.org/pdf/2306.14892.pdf)    
 [Large Language Models can Implement Policy Iteration](https://proceedings.neurips.cc/paper_files/paper/2023/file/60dc7fa827f5f761ad481e2ad40b5573-Paper-Conference.pdf)    
+[Trainable Transformer in Transformer](https://arxiv.org/pdf/2307.01189)  
 
 ## Assessing Model Uncertainty 
 
