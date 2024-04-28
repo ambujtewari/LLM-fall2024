@@ -73,6 +73,12 @@ Borealis AI blog series:
 [Supervised Pretraining Can Learn In-Context Reinforcement Learning](https://arxiv.org/pdf/2306.14892.pdf)    
 [Large Language Models can Implement Policy Iteration](https://proceedings.neurips.cc/paper_files/paper/2023/file/60dc7fa827f5f761ad481e2ad40b5573-Paper-Conference.pdf)    
 
+## Assessing Model Uncertainty 
+
+[Distinguishing the Knowable from the Unknowable with Language Models](https://arxiv.org/pdf/2402.03563)  
+[Conformal Language Modeling](https://arxiv.org/pdf/2306.10193)  
+[Language Models with Conformal Factuality Guarantees](https://arxiv.org/pdf/2402.10978)  
+
 ## RLHF
 
 [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)    
