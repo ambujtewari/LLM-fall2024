@@ -43,7 +43,7 @@ Borealis AI blog series:
 ## NTK Theory for Transformers
 
 [Infinite attention: NNGP and NTK for deep attention networks](https://arxiv.org/pdf/2006.10540.pdf)    
-[Tensor Programs II: Neural Tangent Kernel for Any Architecture](https://arxiv.org/pdf/2006.14548.pdf)
+[Tensor Programs II: Neural Tangent Kernel for Any Architecture](https://arxiv.org/pdf/2006.14548.pdf)  
 [A Kernel-Based View of Language Model Fine-Tuning](https://proceedings.mlr.press/v202/malladi23a/malladi23a.pdf)
 
 ## Capabilities and Limitations of Transformers
