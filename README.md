@@ -8,6 +8,11 @@ _Note_: This course is primarily meant for Statistics PhD students. Others will 
 * TOC
 {:toc}
 
+# Logistics
+
+Days and Times: Tuesdays and Thursdays, 11:30 am-1:00 pm  
+Location: [USB2260](https://mclassrooms.umich.edu/rooms/2113853)  
+
 # Courses / Blogs
 
 [Stanford](https://stanford-cs324.github.io/winter2022/)    
