@@ -24,8 +24,8 @@ Borealis AI blog series:
 - [Transformers I](https://www.borealisai.com/en/blog/tutorial-14-transformers-i-introduction/)
 - [Transformers II](https://www.borealisai.com/en/blog/tutorial-16-transformers-ii-extensions/)
 - [Transformers III](https://www.borealisai.com/en/blog/tutorial-17-transformers-iii-training/)
-- [Neural Natural Langiage Generation: Decoding Algorithms](https://www.borealisai.com/research-blogs/tutorial-6-neural-natural-language-generation-decoding-algorithms/)
-- [Neural Natural Langiage Generation: Sequence Level Training](https://www.borealisai.com/research-blogs/tutorial-7-neural-natural-language-generation-sequence-level-training/)
+- [Neural Natural Language Generation: Decoding Algorithms](https://www.borealisai.com/research-blogs/tutorial-6-neural-natural-language-generation-decoding-algorithms/)
+- [Neural Natural Language Generation: Sequence Level Training](https://www.borealisai.com/research-blogs/tutorial-7-neural-natural-language-generation-sequence-level-training/)
 - [Training and fine-tuning LLMs](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/)
 - [Speeding up inference in LLMs](https://www.borealisai.com/research-blogs/speeding-up-inference-in-transformers/)
 
