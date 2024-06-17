@@ -34,14 +34,26 @@ Borealis AI blog series:
 J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft), Jurafsky and Martin  
 M&S = [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/), Manning and Schütze  
 C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X) (2nd ed.), Cover and Thomas  
+DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/), Matus Telgarsky
 
 1. N-gram language models, J&M Chapter 3
 2. Essential Information Theory, M&S Section 2.2
 3. C&T, Chapters 2-6?
 4. Vector Semantics and Embeddings, J&M Chapter 6
-5. Neural Networks and Neural Language Models, J&M Chapter 7
-6. RNNs and LSTMs, J&M Chapter 9
-7. Transformers and Large Language Models, J&M Chapter 10
+5. Theoretical understanding of word embeddings
+6. Neural Networks and Neural Language Models, J&M Chapter 7
+7. Universal Approximation, DLT Chapter 2
+8. NTK, DLT Chapter 4
+9. Implicit Bias, DLT Chapter 10
+10. Generalization, DLT Chapters 12-17
+11. RNNs and LSTMs, J&M Chapter 9
+12. Transformers and Large Language Models, J&M Chapter 10
+13. Approximation
+14. NTK
+15. Implicit Bias/Regularization
+16. Generalization
+17. Emergence
+18. In-Context Learning
 
 # Topics
 
