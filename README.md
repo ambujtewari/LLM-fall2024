@@ -29,6 +29,20 @@ Borealis AI blog series:
 - [Training and fine-tuning LLMs](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/)
 - [Speeding up inference in LLMs](https://www.borealisai.com/research-blogs/speeding-up-inference-in-transformers/)
 
+# Schedule
+
+J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft), Jurafsky and Martin
+M&S = [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/), Manning and Schütze
+C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X) (2nd ed.), Cover and Thomas
+
+1. N-gram language models, J&M Chapter 3
+2. Essential Information Theory, M&S Section 2.2
+3. C&T, Chapters 2-6?
+4. Vector Semantics and Embeddings, J&M Chapter 6
+5. Neural Networks and Neural Language Models, J&M Chapter 7
+6. RNNs and LSTMs, J&M Chapter 9
+7. Transformers and Large Language Models, J&M Chapter 10
+
 # Topics
 
 ## Word Embeddings
