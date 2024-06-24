@@ -89,7 +89,7 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/), Ma
 [Self-Attention Networks Can Process Bounded Hierarchical Languages](https://arxiv.org/pdf/2105.11115.pdf)    
 [On Limitations of the Transformer Architecture](https://arxiv.org/pdf/2402.08164.pdf)    
 [Transformers Learn Shortcuts to Automata](https://arxiv.org/pdf/2210.10749)  
-[Thunking Like Transformers](https://srush.github.io/raspy/)  
+[Thinking Like Transformers](https://srush.github.io/raspy/)  
 
 ## Beyond PAC Learning: Learning Distributions and Grammars
 
