@@ -39,22 +39,25 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/), Ma
 1. N-gram language models, J&M Chapter 3
 2. Essential Information Theory, M&S Section 2.2
 3. Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2
-4. C&T, Chapters 3-6?
-5. Vector Semantics and Embeddings, J&M Chapter 6
-6. Theoretical understanding of word embeddings
-7. Neural Networks and Neural Language Models, J&M Chapter 7
-8. Universal Approximation, DLT Chapter 2
-9. NTK, DLT Chapter 4
-10. Implicit Bias, DLT Chapter 10
-11. Generalization, DLT Chapters 12-17
-12. RNNs and LSTMs, J&M Chapter 9
-13. Transformers and Large Language Models, J&M Chapter 10
-14. Approximation
-15. NTK
-16. Implicit Bias/Regularization
-17. Generalization
-18. Emergence
-19. In-Context Learning
+4. Asymptotic Equipartition Property, C&T Chapter 3
+5. Entropy Rates of a Stochastic Process, C&T Chapter 4
+6. Data Compression, C&T Chapter 5
+7. Gambling and Data Compression, C&T Chapter 6
+8. Vector Semantics and Embeddings, J&M Chapter 6
+9. Theoretical understanding of word embeddings
+10. Neural Networks and Neural Language Models, J&M Chapter 7
+11. Universal Approximation, DLT Chapter 2
+12. NTK, DLT Chapter 4
+13. Implicit Bias, DLT Chapter 10
+14. Generalization, DLT Chapters 12-17
+15. RNNs and LSTMs, J&M Chapter 9
+16. Transformers and Large Language Models, J&M Chapter 10
+17. Approximation
+18. NTK
+19. Implicit Bias/Regularization
+20. Generalization
+21. Emergence
+22. In-Context Learning
 
 # Topics
 
