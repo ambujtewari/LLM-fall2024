@@ -32,32 +32,30 @@ Borealis AI blog series:
 # Schedule
 
 J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft), Jurafsky and Martin  
-M&S = [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/), Manning and Schütze  
+<!--- M&S = [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/), Manning and Schütze  --->
 C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X) (2nd ed.), Cover and Thomas  
 DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/), Matus Telgarsky
 
 1. N-gram language models, J&M Chapter 3
-2. Essential Information Theory, M&S Section 2.2
-3. Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2
-4. Asymptotic Equipartition Property, C&T Chapter 3
-5. Entropy Rates of a Stochastic Process, C&T Chapter 4
-6. Data Compression, C&T Chapter 5
-7. Gambling and Data Compression, C&T Chapter 6
-8. Vector Semantics and Embeddings, J&M Chapter 6
-9. Theoretical understanding of word embeddings
-10. Neural Networks and Neural Language Models, J&M Chapter 7
+2. Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2
+3. Asymptotic Equipartition Property, C&T Chapter 3
+4. Entropy Rates of a Stochastic Process, C&T Chapter 4
+5. Data Compression, C&T Chapter 5
+6. Gambling and Data Compression, C&T Chapter 6
+7. Vector Semantics and Embeddings, J&M Chapter 6
+8. Neural Networks and Neural Language Models, J&M Chapter 7
+9. RNNs and LSTMs, J&M Chapter 9
+10. Transformers and Large Language Models, J&M Chapter 10
 11. Universal Approximation, DLT Chapter 2
 12. NTK, DLT Chapter 4
 13. Implicit Bias, DLT Chapter 10
 14. Generalization, DLT Chapters 12-17
-15. RNNs and LSTMs, J&M Chapter 9
-16. Transformers and Large Language Models, J&M Chapter 10
-17. Approximation
-18. NTK
-19. Implicit Bias/Regularization
-20. Generalization
-21. Emergence
-22. In-Context Learning
+15. Approximation
+16. NTK
+17. Implicit Bias/Regularization
+18. Generalization
+19. Emergence
+20. In-Context Learning
 
 # Topics
 
