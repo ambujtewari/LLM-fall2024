@@ -1,7 +1,7 @@
 
 **STATS 700, Fall 2024**
 
-The Attention mechanism and the Transformer architecture have completely changed the landscape of AI, deep learning, and NLP research in the past few years. This course will be a selective review of the fast growing literature on Transformers and Large Language Models (LLMs) with a preference towards theoretical and mathematical analyses. We will study the limitations and capabilities of the transformer architecture. We will discuss empirical phenomena such as neural scaling laws and emergence of skills as the models are scaled up in size. LLMs also raise issues around copyright, trust, safety, fairness, and watermarking. We will look at alignment to human values and techniques such as RLHF (reinforcement learning with human feedback) as well as adaptation of LLMs to downstream tasks via few shot fine-tuning and in-context learning. Towards the end, we might look at the impact that LLMs are having in disciplines such as Cognitive Science, Linguistics, and Neuroscience. We might also discuss ongoing efforts to build LLMs and foundation models for science and mathematics. This course is inspired by the Special Year ([Part 1](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1), [Part 2](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-2) and an earlier [workshop](https://simons.berkeley.edu/workshops/large-language-models-transformers)) on LLMs and Transformers being hosted by the Simons Institute at UC Berkeley and may be tweaked to better align with it as the Special Year progresses.
+The Attention mechanism and the Transformer architecture have completely changed the landscape of AI, deep learning, and NLP research in the past few years. This course will be a selective review of the fast growing literature on Transformers and Large Language Models (LLMs) with a preference towards theoretical and mathematical analyses. We will study the limitations and capabilities of the transformer architecture. We will discuss empirical phenomena such as neural scaling laws and emergence of skills as the models are scaled up in size. LLMs also raise issues around copyright, trust, safety, fairness, and watermarking. We will look at alignment to human values and techniques such as RLHF (reinforcement learning with human feedback) as well as adaptation of LLMs to downstream tasks via few shot fine-tuning and in-context learning. Towards the end, we might look at the impact that LLMs are having in disciplines such as Cognitive Science, Linguistics, and Neuroscience. We might also discuss ongoing efforts to build LLMs and foundation models for science and mathematics.
 
 _Note_: This course is primarily meant for Statistics PhD students. Others will need instructor's permission to enroll. Graduate coursework in statistics, theoretical computer science, mathematics, or related disciplines required. Students will be expected to possess that hard-to-define quality usually referred to as "mathematical maturity". 
 
@@ -28,6 +28,10 @@ Borealis AI blog series:
 - [Neural Natural Language Generation: Sequence Level Training](https://www.borealisai.com/research-blogs/tutorial-7-neural-natural-language-generation-sequence-level-training/)
 - [Training and fine-tuning LLMs](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/)
 - [Speeding up inference in LLMs](https://www.borealisai.com/research-blogs/speeding-up-inference-in-transformers/)
+Special Year on LLMs and Transformers at the Simons Institute, UC Berkeley:
+- [Part 1](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
+- [Part 2](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-2)
+- An earlier [workshop](https://simons.berkeley.edu/workshops/large-language-models-transformers))
 
 # Schedule
 
