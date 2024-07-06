@@ -32,7 +32,7 @@ Borealis AI blog series:
 Special Year on LLMs and Transformers at the Simons Institute, UC Berkeley:
 - [Part 1](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
 - [Part 2](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-2)
-- An earlier [workshop](https://simons.berkeley.edu/workshops/large-language-models-transformers))
+- An earlier [workshop](https://simons.berkeley.edu/workshops/large-language-models-transformers)
 
 # Schedule
 
