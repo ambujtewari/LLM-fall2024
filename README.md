@@ -1,7 +1,15 @@
 
 **STATS 700, Fall 2024**
 
-The Attention mechanism and the Transformer architecture have completely changed the landscape of AI, deep learning, and NLP research in the past few years. This course will be a selective review of the fast growing literature on Transformers and Large Language Models (LLMs) with a preference towards theoretical and mathematical analyses. We will study the limitations and capabilities of the transformer architecture. We will discuss empirical phenomena such as neural scaling laws and emergence of skills as the models are scaled up in size. LLMs also raise issues around copyright, trust, safety, fairness, and watermarking. We will look at alignment to human values and techniques such as RLHF (reinforcement learning with human feedback) as well as adaptation of LLMs to downstream tasks via few shot fine-tuning and in-context learning. Towards the end, we might look at the impact that LLMs are having in disciplines such as Cognitive Science, Linguistics, and Neuroscience. We might also discuss ongoing efforts to build LLMs and foundation models for science and mathematics.
+The Attention mechanism and the Transformer architecture have completely changed the landscape of AI, deep learning, and NLP research in the past few years. This advanced graduate level course will consist of two parts. In the first part, we will review foundational material in information theory, statistical NLP, and deep learning theory. In the second part, student project teams will explore topics from the fast growing literature on Transformers and Large Language Models (LLMs) especially papers that provide theoretical and mathematical analyses. Topics include, but are not limited to:
+
+- limitations and capabilities of the transformer architecture
+- neural scaling laws and emergence of skills as the models are scaled up in size
+- issues around copyright, trust, safety, fairness, and watermarking
+- alignment to human values and techniques such as RLHF (reinforcement learning with human feedback)
+- adaptation of LLMs to downstream tasks via few shot fine-tuning and in-context learning.
+
+If there is time, we might look at the impact that LLMs are having in disciplines such as Cognitive Science, Linguistics, and Neuroscience. We might also discuss ongoing efforts to build LLMs and foundation models for science and mathematics.
 
 _Note_: This course is primarily meant for Statistics PhD students. Others will need instructor's permission to enroll. Graduate coursework in statistics, theoretical computer science, mathematics, or related disciplines required. Students will be expected to possess that hard-to-define quality usually referred to as "mathematical maturity". 
 
@@ -41,7 +49,9 @@ J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X) (2nd ed.), Cover and Thomas  
 DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/), Matus Telgarsky
 
-1. N-gram language models, J&M Chapter 3
+## Part 1
+
+1. N-gram Language Models, J&M Chapter 3
 2. Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2
 3. Asymptotic Equipartition Property, C&T Chapter 3
 4. Entropy Rates of a Stochastic Process, C&T Chapter 4
@@ -52,15 +62,16 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/), Ma
 9. RNNs and LSTMs, J&M Chapter 9
 10. Transformers and Large Language Models, J&M Chapter 10
 11. Universal Approximation, DLT Chapter 2
-12. NTK, DLT Chapter 4
-13. Implicit Bias, DLT Chapter 10
-14. Generalization, DLT Chapters 12-17
-15. Approximation
-16. NTK
-17. Implicit Bias/Regularization
-18. Generalization
-19. Emergence
-20. In-Context Learning
+12. Infinite-width networks and the Barron norm, DLT Chapter 3
+13. Neural Tangent Kernel, DLT Chapter 4
+14. Benefits of Depth, DLT Chapter 5
+15. Algorithmic Bias/Implicit Regularization, DLT Chapter 10
+16. Rademacher Complexity, DLT Chapters 13-14
+17. Covering Numbers, DLT Chapters 15-16
+
+## Part 2
+
+TBD
 
 # Topics
 
