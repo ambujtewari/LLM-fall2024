@@ -75,6 +75,13 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/), Ma
 
 TBD
 
+# Classics
+
+Markov (1913) [An Example of Statistical Investigation of the Text _Eugene Onegin_ Concerning the Connection of Samples in Chains](https://drive.google.com/file/d/1eMDPSx0kWQOw0Sv7ulbr3Z_TV1G_m8Qe/view?usp=sharing)  
+Shannon (1951) [Prediction and Entropy of Printed English](https://drive.google.com/file/d/1jOyEgx1paD4qBtb7NPdz0bXKnWlSnByn/view?usp=sharing)  
+Zipf (1936, 1949)  
+Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation of Population Parameters](https://drive.google.com/file/d/1tqVVS_T73b6jYyWF0HSWuzlakwk3pWxD/view?usp=sharing)  
+
 # Topics
 
 ## Word Embeddings
