@@ -47,7 +47,7 @@ Special Year on LLMs and Transformers at the Simons Institute, UC Berkeley:
 J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft), Jurafsky and Martin  
 <!--- M&S = [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/), Manning and Schütze  --->
 C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X) (2nd ed.), Cover and Thomas  
-DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/), Matus Telgarsky
+DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index.pdf), Matus Telgarsky
 
 ## Part 1
 
