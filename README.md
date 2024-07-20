@@ -67,7 +67,7 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 13. Infinite-Width Networks and the Barron Norm, DLT Chapter 3
 14. Neural Tangent Kernel, DLT Chapter 4
 15. Benefits of Depth, DLT Chapter 5
-16. Algorithmic Bias/Implicit Regularization, DLT Chapter 10
+16. Implicit Bias, DLT Chapter 10
 17. Rademacher Complexity, DLT Chapters 13-14
 18. Covering Numbers, DLT Chapters 15-16
 
