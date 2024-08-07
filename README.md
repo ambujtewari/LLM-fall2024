@@ -21,27 +21,6 @@ _Note_: This course is primarily meant for Statistics PhD students. Others will 
 Days and Times: Tuesdays and Thursdays, 11:30 am-1:00 pm  
 Location: [USB2260](https://mclassrooms.umich.edu/rooms/2113853)  
 
-# Courses / Blogs
-
-[Stanford](https://stanford-cs324.github.io/winter2022/)    
-[Princeton](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)    
-[Berkeley](https://rdi.berkeley.edu/understanding_llms/s24)    
-[Michigan EECS](https://www.dropbox.com/scl/fi/xx8bu60mpn2rg84txmr9x/EECS598_LLM_syllabus.pdf?rlkey=q4lgtwtlce8gkbr07tqje0srj&dl=0)    
-Borealis AI blog series:
-- [Intro to LLMs](https://www.borealisai.com/research-blogs/a-high-level-overview-of-large-language-models/)
-- [Transformers I](https://www.borealisai.com/en/blog/tutorial-14-transformers-i-introduction/)
-- [Transformers II](https://www.borealisai.com/en/blog/tutorial-16-transformers-ii-extensions/)
-- [Transformers III](https://www.borealisai.com/en/blog/tutorial-17-transformers-iii-training/)
-- [Neural Natural Language Generation: Decoding Algorithms](https://www.borealisai.com/research-blogs/tutorial-6-neural-natural-language-generation-decoding-algorithms/)
-- [Neural Natural Language Generation: Sequence Level Training](https://www.borealisai.com/research-blogs/tutorial-7-neural-natural-language-generation-sequence-level-training/)
-- [Training and fine-tuning LLMs](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/)
-- [Speeding up inference in LLMs](https://www.borealisai.com/research-blogs/speeding-up-inference-in-transformers/)  
-
-Special Year on LLMs and Transformers at the Simons Institute, UC Berkeley:
-- [Part 1](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
-- [Part 2](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-2)
-- An earlier [workshop](https://simons.berkeley.edu/workshops/large-language-models-transformers)
-
 # Schedule
 
 J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft), Jurafsky and Martin  
@@ -74,6 +53,27 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 ## Part 2
 
 TBD
+
+# Courses / Blogs
+
+[Stanford](https://stanford-cs324.github.io/winter2022/)    
+[Princeton](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)    
+[Berkeley](https://rdi.berkeley.edu/understanding_llms/s24)    
+[Michigan EECS](https://www.dropbox.com/scl/fi/xx8bu60mpn2rg84txmr9x/EECS598_LLM_syllabus.pdf?rlkey=q4lgtwtlce8gkbr07tqje0srj&dl=0)    
+Borealis AI blog series:
+- [Intro to LLMs](https://www.borealisai.com/research-blogs/a-high-level-overview-of-large-language-models/)
+- [Transformers I](https://www.borealisai.com/en/blog/tutorial-14-transformers-i-introduction/)
+- [Transformers II](https://www.borealisai.com/en/blog/tutorial-16-transformers-ii-extensions/)
+- [Transformers III](https://www.borealisai.com/en/blog/tutorial-17-transformers-iii-training/)
+- [Neural Natural Language Generation: Decoding Algorithms](https://www.borealisai.com/research-blogs/tutorial-6-neural-natural-language-generation-decoding-algorithms/)
+- [Neural Natural Language Generation: Sequence Level Training](https://www.borealisai.com/research-blogs/tutorial-7-neural-natural-language-generation-sequence-level-training/)
+- [Training and fine-tuning LLMs](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/)
+- [Speeding up inference in LLMs](https://www.borealisai.com/research-blogs/speeding-up-inference-in-transformers/)  
+
+Special Year on LLMs and Transformers at the Simons Institute, UC Berkeley:
+- [Part 1](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
+- [Part 2](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-2)
+- An earlier [workshop](https://simons.berkeley.edu/workshops/large-language-models-transformers)  
 
 # Classics
 
