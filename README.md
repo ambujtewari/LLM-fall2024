@@ -16,15 +16,12 @@ _Note_: This course is primarily meant for Statistics PhD students. Others will 
 * TOC
 {:toc}
 
-# Logistics
+# Logistics & Schedule
 
 Days and Times: Tuesdays and Thursdays, 11:30 am-1:00 pm  
 Location: [USB2260](https://mclassrooms.umich.edu/rooms/2113853)  
 
-# Schedule
-
 J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft), Jurafsky and Martin  
-<!--- M&S = [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/), Manning and Schütze  --->
 C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X) (2nd ed.), Cover and Thomas  
 DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index.pdf), Matus Telgarsky
 
