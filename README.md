@@ -76,7 +76,7 @@ Special Year on LLMs and Transformers at the Simons Institute, UC Berkeley:
 
 Markov (1913) [An Example of Statistical Investigation of the Text _Eugene Onegin_ Concerning the Connection of Samples in Chains](https://drive.google.com/file/d/1eMDPSx0kWQOw0Sv7ulbr3Z_TV1G_m8Qe/view?usp=sharing)  
 Shannon (1951) [Prediction and Entropy of Printed English](https://drive.google.com/file/d/1jOyEgx1paD4qBtb7NPdz0bXKnWlSnByn/view?usp=sharing)  
-Zipf (1936, 1949)  
+Zipf (1935) _The Psycho-Biology of Language_ Houghton, Mifflin. ([Reprinted by MIT Press](https://mitpress.mit.edu/9780262740029/the-psycho-biology-of-language/) in 1965)
 Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation of Population Parameters](https://drive.google.com/file/d/1tqVVS_T73b6jYyWF0HSWuzlakwk3pWxD/view?usp=sharing)  
 
 # Topics
