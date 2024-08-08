@@ -28,7 +28,7 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 ## Part 1
 
 0. Introduction [slides](https://docs.google.com/presentation/d/1ozkV1Kk4wPucriWIT_kk6QQabwaG3xl2/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true)
-1. N-gram Language Models, J&M Chapter 3
+1. N-gram Language Models, J&M Chapter 3 [annotated chapter](https://www.dropbox.com/scl/fi/787j6oay929yawgfeypce/3.pdf?rlkey=g4y673lj11d8xh7zy7883okm9&st=c6qlxrpi&dl=0)
 2. Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2
 3. Asymptotic Equipartition Property, C&T Chapter 3
 4. Entropy Rates of a Stochastic Process, C&T Chapter 4
