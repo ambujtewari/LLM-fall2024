@@ -137,6 +137,10 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 [Trained Transformers Learn Linear Models In-Context](https://www.jmlr.org/papers/volume25/23-1042/23-1042.pdf)    
 [The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains](https://arxiv.org/pdf/2402.11004)  
 
+## Hallucinations
+
+[Calibrated Language Models Must Hallucinate](https://arxiv.org/pdf/2311.14648.pdf)  
+
 ## Assessing Model Uncertainty 
 
 [Distinguishing the Knowable from the Unknowable with Language Models](https://arxiv.org/pdf/2402.03563)  
