@@ -36,17 +36,19 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 6. Data Compression, C&T Chapter 5
 7. Gambling and Data Compression, C&T Chapter 6
 8. Vector Semantics and Embeddings, J&M Chapter 6
-9. Neural Networks and Neural Language Models, J&M Chapter 7
-10. RNNs and LSTMs, J&M Chapter 9
-11. Transformers and Large Language Models, J&M Chapter 10
-12. Fine-Tuning and Masked Language Models, J&M Chapter 11
-13. Universal Approximation, DLT Chapter 2
-14. Infinite-Width Networks and the Barron Norm, DLT Chapter 3
-15. Neural Tangent Kernel, DLT Chapter 4
-16. Benefits of Depth, DLT Chapter 5
-17. Implicit Bias, DLT Chapter 10
-18. Rademacher Complexity, DLT Chapters 13-14
-19. Covering Numbers, DLT Chapters 15-16
+9. Neural Networks, J&M Chapter 7
+10. RNNs and LSTMs, J&M Chapter 8
+11. Transformers, J&M Chapter 9
+12. Large Language Models, J&M Chapter 10
+13. Masked Language Models, J&M Chapter 11
+14. Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12
+15. Universal Approximation, DLT Chapter 2
+16. Infinite-Width Networks and the Barron Norm, DLT Chapter 3
+17. Neural Tangent Kernel, DLT Chapter 4
+18. Benefits of Depth, DLT Chapter 5
+19. Implicit Bias, DLT Chapter 10
+20. Rademacher Complexity, DLT Chapters 13-14
+21. Covering Numbers, DLT Chapters 15-16
 
 ## Part 2
 
