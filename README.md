@@ -94,10 +94,6 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 
 [Implicit Regularization of Gradient Flow on One-Layer Softmax Attention](https://arxiv.org/pdf/2403.08699.pdf)    
 
-## Basics of Transformers
-
-[Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238.pdf)    
-
 ## NTK Theory for Transformers
 
 [Infinite attention: NNGP and NTK for deep attention networks](https://arxiv.org/pdf/2006.10540.pdf)    
@@ -162,9 +158,23 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 
 [A mathematical perspective on Transformers](https://arxiv.org/pdf/2312.10794.pdf)
 
+## Language Modeling, Prediction, and Compression
+
+[On prediction by data compression](https://link.springer.com/chapter/10.1007/3-540-62858-4_69)  
+[Language Modeling Is Compression](https://arxiv.org/pdf/2309.10668)  
+[Prediction by Compression](https://arxiv.org/pdf/1008.5078)  
+
+## LLMs, Online Learning, and Regret
+
+[Do LLM Agents Have Regret? A Case Study in Online Learning and Games](https://arxiv.org/pdf/2403.16843)  
+
 ## Transformers in RL
 
 [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/pdf/2307.05979.pdf)
+
+## LLMs and Causality
+
+[Causal Reasoning and Large Language Models: Opening a New Frontier for Causality](https://arxiv.org/pdf/2305.00050)  
 
 ## LLMs and Cognitive Science, Linguistics, Neuroscience
 
