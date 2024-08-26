@@ -31,24 +31,25 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 2. 8/29 N-gram Language Models, J&M Chapter 3 [annotated chapter](https://www.dropbox.com/scl/fi/787j6oay929yawgfeypce/3.pdf?rlkey=g4y673lj11d8xh7zy7883okm9&st=c6qlxrpi&dl=0)
 3. 9/3 Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2, Sections 2.1-2.5 [notes](https://www.dropbox.com/scl/fi/pumev44yqz2tyca3pw6gc/CT-Sec-2-1-to-2-5.pdf?rlkey=d2c92e0w41yiqkxkxl1eraw7j&st=knnx8u3g&dl=0)  
 4. 9/5 Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2, Sections 2.6-2.10  
-5. Asymptotic Equipartition Property, C&T Chapter 3
-6. Entropy Rates of a Stochastic Process, C&T Chapter 4
-7. Data Compression, C&T Chapter 5
-8. Gambling and Data Compression, C&T Chapter 6
-9. Vector Semantics and Embeddings, J&M Chapter 6
-10. Neural Networks, J&M Chapter 7
-11. RNNs and LSTMs, J&M Chapter 8
-12. Transformers, J&M Chapter 9
-13. Large Language Models, J&M Chapter 10
-14. Masked Language Models, J&M Chapter 11
-15. Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12
-16. Universal Approximation, DLT Chapter 2
-17. Infinite-Width Networks and the Barron Norm, DLT Chapter 3
-18. Neural Tangent Kernel, DLT Chapter 4
-19. Benefits of Depth, DLT Chapter 5
-20. Implicit Bias, DLT Chapter 10
-21. Rademacher Complexity, DLT Chapters 13-14
-22. Covering Numbers, DLT Chapters 15-16
+5. 9/10 Asymptotic Equipartition Property, C&T Chapter 3
+6. 9/12 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.1-4.3
+7. 9/17 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5  
+8. Data Compression, C&T Chapter 5
+9. Gambling and Data Compression, C&T Chapter 6
+10. Vector Semantics and Embeddings, J&M Chapter 6
+11. Neural Networks, J&M Chapter 7
+12. RNNs and LSTMs, J&M Chapter 8
+13. Transformers, J&M Chapter 9
+14. Large Language Models, J&M Chapter 10
+15. Masked Language Models, J&M Chapter 11
+16. Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12
+17. Universal Approximation, DLT Chapter 2
+18. Infinite-Width Networks and the Barron Norm, DLT Chapter 3
+19. Neural Tangent Kernel, DLT Chapter 4
+20. Benefits of Depth, DLT Chapter 5
+21. Implicit Bias, DLT Chapter 10
+22. Rademacher Complexity, DLT Chapters 13-14
+23. Covering Numbers, DLT Chapters 15-16
 
 ## Part 2
 
