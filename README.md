@@ -86,6 +86,9 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 # Topics
 
 ## Word Embeddings
+[Neural Word Embedding as Implicit Matrix Factorization](https://papers.nips.cc/paper_files/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf)  
+[A Latent Variable Model Approach to PMI-based Word Embeddings](https://doi.org/10.1162/tacl_a_00106)  
+[Skip-Gram – Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007.pdf)  
 [Analogies Explained: Towards Understanding Word Embeddings](https://proceedings.mlr.press/v97/allen19a/allen19a.pdf)    
 
 ## Attention
