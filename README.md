@@ -36,7 +36,7 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 7. 9/17 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5  
 8. Data Compression, C&T Chapter 5
 9. Gambling and Data Compression, C&T Chapter 6
-10. Vector Semantics and Embeddings, J&M Chapter 6
+10. Vector Semantics and Embeddings, J&M Chapter 6 [annotated chapter](https://www.dropbox.com/scl/fi/yee8frm5qeo3vzwrxrgrd/6.pdf?rlkey=rpmjt59exuxjdz0fi6f9iz4xm&st=3r6f026q&dl=0)  
 11. Neural Networks, J&M Chapter 7
 12. RNNs and LSTMs, J&M Chapter 8
 13. Transformers, J&M Chapter 9
