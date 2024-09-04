@@ -71,6 +71,8 @@ Borealis AI blog series:
 - [Training and fine-tuning LLMs](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/)
 - [Speeding up inference in LLMs](https://www.borealisai.com/research-blogs/speeding-up-inference-in-transformers/)  
 
+Basic mathematical setup for transformers: [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238)  
+
 Special Year on LLMs and Transformers at the Simons Institute, UC Berkeley:
 - [Part 1](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
 - [Part 2](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-2)
