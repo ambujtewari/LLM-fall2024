@@ -190,6 +190,7 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 
 ## LLMs and Cognitive Science, Linguistics, Neuroscience
 
+[Formal grammar and information theory: together again?](https://doi.org/10.1098/rsta.2000.0583)  
 [The debate over understanding in AI’s large language models](https://www.pnas.org/doi/abs/10.1073/pnas.2215907120)    
 [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)    
 [Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)    
