@@ -71,7 +71,11 @@ Borealis AI blog series:
 - [Training and fine-tuning LLMs](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/)
 - [Speeding up inference in LLMs](https://www.borealisai.com/research-blogs/speeding-up-inference-in-transformers/)  
 
-Basic mathematical setup for transformers: [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238)  
+Basics
+- [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) This is the paper that started the transformers revolution
+- [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)  
 
 Special Year on LLMs and Transformers at the Simons Institute, UC Berkeley:
 - [Part 1](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
