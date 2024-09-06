@@ -112,6 +112,11 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 [Tensor Programs II: Neural Tangent Kernel for Any Architecture](https://arxiv.org/pdf/2006.14548.pdf)  
 [A Kernel-Based View of Language Model Fine-Tuning](https://proceedings.mlr.press/v202/malladi23a/malladi23a.pdf)
 
+## Reverse Engineering Transformers
+
+[Transformer Circuits Thread Project](https://transformer-circuits.pub/)  
+[Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small](https://arxiv.org/pdf/2211.00593)  
+
 ## Capabilities and Limitations of Transformers
 
 [On the Turing Completeness of Modern Neural Network Architectures](https://arxiv.org/pdf/1901.03429.pdf)    
