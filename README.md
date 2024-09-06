@@ -46,13 +46,13 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 
 **Tentative**
 
-Universal Approximation, DLT Chapter 2
-Infinite-Width Networks and the Barron Norm, DLT Chapter 3
-Neural Tangent Kernel, DLT Chapter 4
-Benefits of Depth, DLT Chapter 5
-Implicit Bias, DLT Chapter 10
-Rademacher Complexity, DLT Chapters 13-14
-Covering Numbers, DLT Chapters 15-16
+Universal Approximation, DLT Chapter 2  
+Infinite-Width Networks and the Barron Norm, DLT Chapter 3  
+Neural Tangent Kernel, DLT Chapter 4  
+Benefits of Depth, DLT Chapter 5  
+Implicit Bias, DLT Chapter 10  
+Rademacher Complexity, DLT Chapters 13-14  
+Covering Numbers, DLT Chapters 15-16  
 
 ## Part 2
 
