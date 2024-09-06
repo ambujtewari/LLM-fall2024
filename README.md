@@ -119,6 +119,7 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 
 [Transformer Circuits Thread Project](https://transformer-circuits.pub/)  
 [Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small](https://arxiv.org/pdf/2211.00593)  
+[Progress Measures for Grokking Via Mechanistic Interpretability](https://arxiv.org/pdf/2301.05217)  
 
 ## Capabilities and Limitations of Transformers
 
