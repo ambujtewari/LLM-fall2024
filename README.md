@@ -27,29 +27,32 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 
 ## Part 1
 
-1. 8/27 Introduction [slides](https://docs.google.com/presentation/d/1ozkV1Kk4wPucriWIT_kk6QQabwaG3xl2/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true)
-2. 8/29 N-gram Language Models, J&M Chapter 3 [annotated chapter](https://www.dropbox.com/scl/fi/787j6oay929yawgfeypce/3.pdf?rlkey=g4y673lj11d8xh7zy7883okm9&st=c6qlxrpi&dl=0)
-3. 9/3 Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2, Sections 2.1-2.5 [notes](https://www.dropbox.com/scl/fi/pumev44yqz2tyca3pw6gc/CT-Sec-2-1-to-2-5.pdf?rlkey=d2c92e0w41yiqkxkxl1eraw7j&st=knnx8u3g&dl=0)  
-4. 9/5 Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2, Sections 2.6-2.10 [notes](https://www.dropbox.com/scl/fi/6in60dt7n4c02gimbjjl4/CT-Sec-2-6-to-2-10.pdf?rlkey=apx8z8oma104ktarn6h2i39vi&st=zl6mdfte&dl=0)  
-5. 9/10 Asymptotic Equipartition Property, C&T Chapter 3, Sections 3.1-3.3 [notes](https://www.dropbox.com/scl/fi/1c8xloiluxr2j4znol40y/CT-Sec-3-1-to-3-3.pdf?rlkey=ktlrvtahq5x6fc0pvam8edz44&st=qx0cso0n&dl=0)  
-6. 9/12 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.1-4.3 [notes](https://www.dropbox.com/scl/fi/hcg1kig528gl4b3n75r7w/CT-Sec-4-1-to-4-3.pdf?rlkey=zkb1lnlsszs6sc6zwk4qldp0n&st=r5ne9ust&dl=0)  
-7. 9/17 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5  
-8. Data Compression, C&T Chapter 5
-9. Gambling and Data Compression, C&T Chapter 6
-10. Vector Semantics and Embeddings, J&M Chapter 6 [annotated chapter](https://www.dropbox.com/scl/fi/yee8frm5qeo3vzwrxrgrd/6.pdf?rlkey=rpmjt59exuxjdz0fi6f9iz4xm&st=3r6f026q&dl=0)  
-11. Neural Networks, J&M Chapter 7
-12. RNNs and LSTMs, J&M Chapter 8
-13. Transformers, J&M Chapter 9
-14. Large Language Models, J&M Chapter 10
-15. Masked Language Models, J&M Chapter 11
-16. Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12
-17. Universal Approximation, DLT Chapter 2
-18. Infinite-Width Networks and the Barron Norm, DLT Chapter 3
-19. Neural Tangent Kernel, DLT Chapter 4
-20. Benefits of Depth, DLT Chapter 5
-21. Implicit Bias, DLT Chapter 10
-22. Rademacher Complexity, DLT Chapters 13-14
-23. Covering Numbers, DLT Chapters 15-16
+- 8/27 Introduction [slides](https://docs.google.com/presentation/d/1ozkV1Kk4wPucriWIT_kk6QQabwaG3xl2/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true)
+- 8/29 N-gram Language Models, J&M Chapter 3 [annotated chapter](https://www.dropbox.com/scl/fi/787j6oay929yawgfeypce/3.pdf?rlkey=g4y673lj11d8xh7zy7883okm9&st=c6qlxrpi&dl=0)
+- 9/3, 9/5 Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2, Sections 2.1-2.5 [notes](https://www.dropbox.com/scl/fi/pumev44yqz2tyca3pw6gc/CT-Sec-2-1-to-2-5.pdf?rlkey=d2c92e0w41yiqkxkxl1eraw7j&st=knnx8u3g&dl=0)  
+- 9/10 Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2, Sections 2.6-2.10 [notes](https://www.dropbox.com/scl/fi/6in60dt7n4c02gimbjjl4/CT-Sec-2-6-to-2-10.pdf?rlkey=apx8z8oma104ktarn6h2i39vi&st=zl6mdfte&dl=0)  
+- 9/12 Asymptotic Equipartition Property, C&T Chapter 3, Sections 3.1-3.3 [notes](https://www.dropbox.com/scl/fi/1c8xloiluxr2j4znol40y/CT-Sec-3-1-to-3-3.pdf?rlkey=ktlrvtahq5x6fc0pvam8edz44&st=qx0cso0n&dl=0)  
+- 9/17 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.1-4.3 [notes](https://www.dropbox.com/scl/fi/hcg1kig528gl4b3n75r7w/CT-Sec-4-1-to-4-3.pdf?rlkey=zkb1lnlsszs6sc6zwk4qldp0n&st=r5ne9ust&dl=0)  
+- Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5  
+- Data Compression, C&T Chapter 5
+- Gambling and Data Compression, C&T Chapter 6
+- Vector Semantics and Embeddings, J&M Chapter 6 [annotated chapter](https://www.dropbox.com/scl/fi/yee8frm5qeo3vzwrxrgrd/6.pdf?rlkey=rpmjt59exuxjdz0fi6f9iz4xm&st=3r6f026q&dl=0)  
+- Neural Networks, J&M Chapter 7
+- RNNs and LSTMs, J&M Chapter 8
+- Transformers, J&M Chapter 9
+- Large Language Models, J&M Chapter 10
+- Masked Language Models, J&M Chapter 11
+- Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12
+
+**Tentative**
+
+Universal Approximation, DLT Chapter 2
+Infinite-Width Networks and the Barron Norm, DLT Chapter 3
+Neural Tangent Kernel, DLT Chapter 4
+Benefits of Depth, DLT Chapter 5
+Implicit Bias, DLT Chapter 10
+Rademacher Complexity, DLT Chapters 13-14
+Covering Numbers, DLT Chapters 15-16
 
 ## Part 2
 
