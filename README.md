@@ -154,7 +154,7 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 [The Learnability of In-Context Learning](https://arxiv.org/pdf/2303.07895.pdf)    
 [Supervised Pretraining Can Learn In-Context Reinforcement Learning](https://arxiv.org/pdf/2306.14892.pdf)    
 [Large Language Models can Implement Policy Iteration](https://proceedings.neurips.cc/paper_files/paper/2023/file/60dc7fa827f5f761ad481e2ad40b5573-Paper-Conference.pdf)    
-[Trainable Transformer in Transformer](https://arxiv.org/pdf/2307.01189)
+[Trainable Transformer in Transformer](https://arxiv.org/pdf/2307.01189)  
 [Trained Transformers Learn Linear Models In-Context](https://www.jmlr.org/papers/volume25/23-1042/23-1042.pdf)    
 [The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains](https://arxiv.org/pdf/2402.11004)  
 
