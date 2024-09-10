@@ -121,7 +121,7 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 [Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small](https://arxiv.org/pdf/2211.00593)  
 [Progress Measures for Grokking Via Mechanistic Interpretability](https://arxiv.org/pdf/2301.05217)  
 
-## Capabilities and Limitations of Transformers
+## Capabilities and Limitations of LLMs and Transformers
 
 [On the Turing Completeness of Modern Neural Network Architectures](https://arxiv.org/pdf/1901.03429.pdf)    
 [Are Transformers universal approximators of sequence-to-sequence functions?](https://arxiv.org/pdf/1912.10077.pdf)    
@@ -129,8 +129,9 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 [On the Ability and Limitations of Transformers to Recognize Formal Languages](https://aclanthology.org/2020.emnlp-main.576.pdf)    
 [Theoretical Limitations of Self-Attention in Neural Sequence Models](https://arxiv.org/pdf/1906.06755.pdf)    
 [Self-Attention Networks Can Process Bounded Hierarchical Languages](https://arxiv.org/pdf/2105.11115.pdf)    
-[On Limitations of the Transformer Architecture](https://arxiv.org/pdf/2402.08164.pdf)    
 [Transformers Learn Shortcuts to Automata](https://arxiv.org/pdf/2210.10749)  
+[On Limitations of the Transformer Architecture](https://arxiv.org/pdf/2402.08164.pdf)    
+[Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models](https://arxiv.org/pdf/2405.13798)  
 [Thinking Like Transformers](https://srush.github.io/raspy/)  
 
 ## Beyond PAC Learning: Learning Distributions and Grammars
