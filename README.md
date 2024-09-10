@@ -138,9 +138,9 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 
 [On the Learnability of Discrete Distributions](https://dl.acm.org/doi/pdf/10.1145/195058.195155)  
 [Near-optimal Sample Complexity Bounds for Robust Learning of Gaussian Mixtures via Compression Schemes](https://dl.acm.org/doi/pdf/10.1145/3417994)  
-[Grammatical Inference: Learning Automata and Grammars](https://www.cambridge.org/us/universitypress/subjects/computer-science/pattern-recognition-and-machine-learning/grammatical-inference-learning-automata-and-grammars?format=HB&isbn=9780521763165)  
 [Distribution Learnability and Robustness](https://proceedings.neurips.cc/paper_files/paper/2023/file/a5321f64005b0d4a94d0b18e84e19f48-Paper-Conference.pdf)  
 [Inherent limitations of dimensions for characterizing learnability of distribution classes](https://proceedings.mlr.press/v247/lechner24a/lechner24a.pdf)  
+[Grammatical Inference: Learning Automata and Grammars](https://www.cambridge.org/us/universitypress/subjects/computer-science/pattern-recognition-and-machine-learning/grammatical-inference-learning-automata-and-grammars?format=HB&isbn=9780521763165)  
 [Mathematical Linguistics](https://link.springer.com/book/10.1007/978-1-84628-986-6) especially Chapter 7 (Complexity) and Chapter 8 (Linguistic pattern recognition)  
 
 ## Emergence
