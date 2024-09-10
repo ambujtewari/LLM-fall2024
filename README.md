@@ -33,7 +33,7 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 - 9/10 Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2, Sections 2.6-2.10 [notes](https://www.dropbox.com/scl/fi/6in60dt7n4c02gimbjjl4/CT-Sec-2-6-to-2-10.pdf?rlkey=apx8z8oma104ktarn6h2i39vi&st=zl6mdfte&dl=0)  
 - 9/12 Asymptotic Equipartition Property, C&T Chapter 3, Sections 3.1-3.3 [notes](https://www.dropbox.com/scl/fi/1c8xloiluxr2j4znol40y/CT-Sec-3-1-to-3-3.pdf?rlkey=ktlrvtahq5x6fc0pvam8edz44&st=qx0cso0n&dl=0)  
 - 9/17 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.1-4.3 [notes](https://www.dropbox.com/scl/fi/hcg1kig528gl4b3n75r7w/CT-Sec-4-1-to-4-3.pdf?rlkey=zkb1lnlsszs6sc6zwk4qldp0n&st=r5ne9ust&dl=0)  
-- Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
+- 9/19 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
 - Data Compression, C&T Chapter 5
 - Gambling and Data Compression, C&T Chapter 6
 - Vector Semantics and Embeddings, J&M Chapter 6 [annotated chapter](https://www.dropbox.com/scl/fi/yee8frm5qeo3vzwrxrgrd/6.pdf?rlkey=rpmjt59exuxjdz0fi6f9iz4xm&st=3r6f026q&dl=0)  
