@@ -125,13 +125,16 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 
 [On the Turing Completeness of Modern Neural Network Architectures](https://arxiv.org/pdf/1901.03429.pdf)    
 [Are Transformers universal approximators of sequence-to-sequence functions?](https://arxiv.org/pdf/1912.10077.pdf)    
-[From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers](https://arxiv.org/pdf/2402.13512.pdf)    
-[On the Ability and Limitations of Transformers to Recognize Formal Languages](https://aclanthology.org/2020.emnlp-main.576.pdf)    
 [Theoretical Limitations of Self-Attention in Neural Sequence Models](https://arxiv.org/pdf/1906.06755.pdf)    
+[On the Ability and Limitations of Transformers to Recognize Formal Languages](https://aclanthology.org/2020.emnlp-main.576.pdf)    
 [Self-Attention Networks Can Process Bounded Hierarchical Languages](https://arxiv.org/pdf/2105.11115.pdf)    
 [Transformers Learn Shortcuts to Automata](https://arxiv.org/pdf/2210.10749)  
+[Representational Strengths and Limitations of Transformers](https://arxiv.org/pdf/2306.02896)  
 [On Limitations of the Transformer Architecture](https://arxiv.org/pdf/2402.08164.pdf)    
+[Transformers, parallel computation, and logarithmic depth](https://arxiv.org/pdf/2402.09268)  
+[From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers](https://arxiv.org/pdf/2402.13512.pdf)    
 [Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models](https://arxiv.org/pdf/2405.13798)  
+[One-layer transformers fail to solve the induction heads task](https://arxiv.org/pdf/2408.14332)  
 [Thinking Like Transformers](https://srush.github.io/raspy/)  
 
 ## Beyond PAC Learning: Learning Distributions and Grammars
