@@ -40,7 +40,7 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 - 9/26 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.1-4.3 [notes](https://www.dropbox.com/scl/fi/hcg1kig528gl4b3n75r7w/CT-Sec-4-1-to-4-3.pdf?rlkey=zkb1lnlsszs6sc6zwk4qldp0n&st=r5ne9ust&dl=0)  
 - 10/1 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
 - 10/3 Vector Semantics and Embeddings, J&M Chapter 6 [annotated chapter](https://www.dropbox.com/scl/fi/yee8frm5qeo3vzwrxrgrd/6.pdf?rlkey=rpmjt59exuxjdz0fi6f9iz4xm&st=3r6f026q&dl=0)  
-- Neural Networks, J&M Chapter 7
+- 10/8 Neural Networks, J&M Chapter 7 [annotated chapter](https://www.dropbox.com/scl/fi/1ynppiktk1f2hy8srkolv/7.pdf?rlkey=z9sz3d13mbirbm1g43653bsql&st=4zjhh7d3&dl=0)  
 - RNNs and LSTMs, J&M Chapter 8
 - Transformers, J&M Chapter 9
 - Large Language Models, J&M Chapter 10
