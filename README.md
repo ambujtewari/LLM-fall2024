@@ -31,16 +31,14 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 - 8/29 N-gram Language Models, J&M Chapter 3 [annotated chapter](https://www.dropbox.com/scl/fi/787j6oay929yawgfeypce/3.pdf?rlkey=g4y673lj11d8xh7zy7883okm9&st=c6qlxrpi&dl=0)
 - 9/3, 9/5 Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2, Sections 2.1-2.5 [notes](https://www.dropbox.com/scl/fi/pumev44yqz2tyca3pw6gc/CT-Sec-2-1-to-2-5.pdf?rlkey=d2c92e0w41yiqkxkxl1eraw7j&st=knnx8u3g&dl=0)  
 - 9/10, 9/12, 9/19 Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2, Sections 2.6-2.10 [notes](https://www.dropbox.com/scl/fi/6in60dt7n4c02gimbjjl4/CT-Sec-2-6-to-2-10.pdf?rlkey=apx8z8oma104ktarn6h2i39vi&st=zl6mdfte&dl=0)
-- 9/17 Paper presentation [notes](https://www.dropbox.com/scl/fi/96ly78ynmazx0b4vux6id/single-layer-self-attention-and-communication-complexity.pdf?rlkey=er31wvchscsrkp1bh7jaghpy3&st=x80j6vdu&dl=0)  
+- 9/17, 9/19 Paper presentation [notes](https://www.dropbox.com/scl/fi/96ly78ynmazx0b4vux6id/single-layer-self-attention-and-communication-complexity.pdf?rlkey=er31wvchscsrkp1bh7jaghpy3&st=x80j6vdu&dl=0)  
   - [Representational Strengths and Limitations of Transformers](https://arxiv.org/pdf/2306.02896)
   - [On Limitations of the Transformer Architecture](https://arxiv.org/pdf/2402.08164)
   - [One-layer transformers fail to solve the induction heads task](https://arxiv.org/pdf/2408.14332)  
-- 9/19 Asymptotic Equipartition Property, C&T Chapter 3, Sections 3.1-3.3 [notes](https://www.dropbox.com/scl/fi/1c8xloiluxr2j4znol40y/CT-Sec-3-1-to-3-3.pdf?rlkey=ktlrvtahq5x6fc0pvam8edz44&st=qx0cso0n&dl=0)  
-- 9/24 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.1-4.3 [notes](https://www.dropbox.com/scl/fi/hcg1kig528gl4b3n75r7w/CT-Sec-4-1-to-4-3.pdf?rlkey=zkb1lnlsszs6sc6zwk4qldp0n&st=r5ne9ust&dl=0)  
-- 9/26 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
-- Data Compression, C&T Chapter 5
-- Gambling and Data Compression, C&T Chapter 6
-- Vector Semantics and Embeddings, J&M Chapter 6 [annotated chapter](https://www.dropbox.com/scl/fi/yee8frm5qeo3vzwrxrgrd/6.pdf?rlkey=rpmjt59exuxjdz0fi6f9iz4xm&st=3r6f026q&dl=0)  
+- 9/24 Asymptotic Equipartition Property, C&T Chapter 3, Sections 3.1-3.3 [notes](https://www.dropbox.com/scl/fi/1c8xloiluxr2j4znol40y/CT-Sec-3-1-to-3-3.pdf?rlkey=ktlrvtahq5x6fc0pvam8edz44&st=qx0cso0n&dl=0)  
+- 9/26 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.1-4.3 [notes](https://www.dropbox.com/scl/fi/hcg1kig528gl4b3n75r7w/CT-Sec-4-1-to-4-3.pdf?rlkey=zkb1lnlsszs6sc6zwk4qldp0n&st=r5ne9ust&dl=0)  
+- 10/1 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
+- 10/3 Vector Semantics and Embeddings, J&M Chapter 6 [annotated chapter](https://www.dropbox.com/scl/fi/yee8frm5qeo3vzwrxrgrd/6.pdf?rlkey=rpmjt59exuxjdz0fi6f9iz4xm&st=3r6f026q&dl=0)  
 - Neural Networks, J&M Chapter 7
 - RNNs and LSTMs, J&M Chapter 8
 - Transformers, J&M Chapter 9
@@ -50,6 +48,8 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 
 **Tentative**
 
+Data Compression, C&T Chapter 5  
+Gambling and Data Compression, C&T Chapter 6  
 Universal Approximation, DLT Chapter 2  
 Infinite-Width Networks and the Barron Norm, DLT Chapter 3  
 Neural Tangent Kernel, DLT Chapter 4  
