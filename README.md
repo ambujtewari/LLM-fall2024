@@ -41,22 +41,16 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 - 10/1 Asymptotic Equipartition Property, C&T Chapter 3, Sections 3.1-3.3 [notes](https://www.dropbox.com/scl/fi/1c8xloiluxr2j4znol40y/CT-Sec-3-1-to-3-3.pdf?rlkey=ktlrvtahq5x6fc0pvam8edz44&st=qx0cso0n&dl=0)  
 - 10/3 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.1-4.3 [notes](https://www.dropbox.com/scl/fi/hcg1kig528gl4b3n75r7w/CT-Sec-4-1-to-4-3.pdf?rlkey=zkb1lnlsszs6sc6zwk4qldp0n&st=r5ne9ust&dl=0)  
 - 10/8 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
-- RNNs and LSTMs, J&M Chapter 8  
-- Transformers, J&M Chapter 9  
-- Large Language Models, J&M Chapter 10  
-- Masked Language Models, J&M Chapter 11  
-- Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12  
+- 10/10 RNNs and LSTMs, J&M Chapter 8  
+- 10/15 FALL BREAK  
+- 10/17 Transformers, J&M Chapter 9  
+- 10/22 Large Language Models, J&M Chapter 10  
+- 10/24 Masked Language Models, J&M Chapter 11  
+- 10/29 Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12
+- 10/31 (buffer for overflow)
 
 ## Part 2
 
-- 10/8
-- 10/10
-- 10/15 FALL BREAK
-- 10/17
-- 10/22
-- 10/24
-- 10/29
-- 10/31
 - 11/5
 - 11/7
 - 11/12
