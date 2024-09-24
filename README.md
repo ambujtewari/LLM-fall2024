@@ -47,21 +47,26 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 - Masked Language Models, J&M Chapter 11  
 - Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12  
 
-**Tentative**
-
-Data Compression, C&T Chapter 5  
-Gambling and Data Compression, C&T Chapter 6  
-Universal Approximation, DLT Chapter 2  
-Infinite-Width Networks and the Barron Norm, DLT Chapter 3  
-Neural Tangent Kernel, DLT Chapter 4  
-Benefits of Depth, DLT Chapter 5  
-Implicit Bias, DLT Chapter 10  
-Rademacher Complexity, DLT Chapters 13-14  
-Covering Numbers, DLT Chapters 15-16  
-
 ## Part 2
 
-TBD
+- 10/8
+- 10/10
+- 10/15 FALL BREAK
+- 10/17
+- 10/22
+- 10/24
+- 10/29
+- 10/31
+- 11/5
+- 11/7
+- 11/12
+- 11/14
+- 11/19
+- 11/21
+- 11/26
+- 11/28 THANKSGIVING BREAK
+- 12/3
+- 12/5
 
 # Courses / Blogs
 
