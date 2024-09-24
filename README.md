@@ -48,6 +48,7 @@ DLT = [Deep Learning Theory Lecture Notes](https://mjt.cs.illinois.edu/dlt/index
 - 10/24 Large Language Models, J&M Chapter 10  
 - 10/29 Masked Language Models, J&M Chapter 11  
 - 10/31 Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12
+  - Project Proposal Due (?)
 
 
 ## Part 2
