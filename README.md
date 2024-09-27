@@ -44,20 +44,21 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 - 10/17 Neural Networks, J&M Chapter 7 [annotated chapter](https://www.dropbox.com/scl/fi/1ynppiktk1f2hy8srkolv/7.pdf?rlkey=z9sz3d13mbirbm1g43653bsql&st=4zjhh7d3&dl=0)  
   - RNNs and LSTMs, J&M Chapter 8  
 - 10/22 Transformers, J&M Chapter 9  
-  - Large Language Models, J&M Chapter 10  
+  - Large Language Models, J&M Chapter 10
+- 10/24 Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12
+  - Project Proposals Due
 
 
 ## Part 2
 
-- 10/29 Paper 1 
-- 10/31 Paper 2 
-  - Project Proposals Due
-- 11/5 Paper 3  
-- 11/7 Paper 4  
-- 11/12 Paper 5  
-- 11/14 Paper 6  
-- 11/19 Paper 7  
-- 11/21 Paper 8
+- 10/29 Slot 1
+- 10/31 Slot 2 
+- 11/5 Slot 3  
+- 11/7 Slot 4  
+- 11/12 Slot 5  
+- 11/14 Slot 6  
+- 11/19 Slot 7  
+- 11/21 Slot 8
 - 11/26 (buffer)
 - 11/28 THANKSGIVING BREAK  
 - 12/3 Possible poster session
