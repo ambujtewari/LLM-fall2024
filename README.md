@@ -36,32 +36,33 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
   - [One-layer transformers fail to solve the induction heads task](https://arxiv.org/pdf/2408.14332)  
 - 9/19 (wrap up) Entropy, Relative Entropy, and Mutual Information, C&T Chapter 2, Sections 2.6-2.10 [notes](https://www.dropbox.com/scl/fi/6in60dt7n4c02gimbjjl4/CT-Sec-2-6-to-2-10.pdf?rlkey=apx8z8oma104ktarn6h2i39vi&st=zl6mdfte&dl=0)  
 - 9/24 Vector Semantics and Embeddings, J&M Chapter 6 [annotated chapter](https://www.dropbox.com/scl/fi/yee8frm5qeo3vzwrxrgrd/6.pdf?rlkey=rpmjt59exuxjdz0fi6f9iz4xm&st=3r6f026q&dl=0)  
-- 9/26 Asymptotic Equipartition Property, C&T Chapter 3, Sections 3.1-3.3 [notes](https://www.dropbox.com/scl/fi/1c8xloiluxr2j4znol40y/CT-Sec-3-1-to-3-3.pdf?rlkey=ktlrvtahq5x6fc0pvam8edz44&st=qx0cso0n&dl=0)  
-- 10/1 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.1-4.3 [notes](https://www.dropbox.com/scl/fi/hcg1kig528gl4b3n75r7w/CT-Sec-4-1-to-4-3.pdf?rlkey=zkb1lnlsszs6sc6zwk4qldp0n&st=r5ne9ust&dl=0)  
-- 10/3 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
-- 10/8 Project Pitches
-- 10/10 Neural Networks, J&M Chapter 7 [annotated chapter](https://www.dropbox.com/scl/fi/1ynppiktk1f2hy8srkolv/7.pdf?rlkey=z9sz3d13mbirbm1g43653bsql&st=4zjhh7d3&dl=0)  
+- 9/26, 10/1 Asymptotic Equipartition Property, C&T Chapter 3, Sections 3.1-3.3 [notes](https://www.dropbox.com/scl/fi/1c8xloiluxr2j4znol40y/CT-Sec-3-1-to-3-3.pdf?rlkey=ktlrvtahq5x6fc0pvam8edz44&st=qx0cso0n&dl=0)  
+- 10/3 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.1-4.3 [notes](https://www.dropbox.com/scl/fi/hcg1kig528gl4b3n75r7w/CT-Sec-4-1-to-4-3.pdf?rlkey=zkb1lnlsszs6sc6zwk4qldp0n&st=r5ne9ust&dl=0)  
+- 10/8 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
+- 10/10 Project Pitches
 - 10/15 FALL BREAK  
-- 10/17 RNNs and LSTMs, J&M Chapter 8  
+- 10/17 Neural Networks, J&M Chapter 7 [annotated chapter](https://www.dropbox.com/scl/fi/1ynppiktk1f2hy8srkolv/7.pdf?rlkey=z9sz3d13mbirbm1g43653bsql&st=4zjhh7d3&dl=0)  
+  - RNNs and LSTMs, J&M Chapter 8  
 - 10/22 Transformers, J&M Chapter 9  
-- 10/24 Large Language Models, J&M Chapter 10  
-- 10/29 Masked Language Models, J&M Chapter 11  
-- 10/31 Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12
-  - Project Proposals Due
+  - Large Language Models, J&M Chapter 10  
+
 
 ## Part 2
 
-- 11/5
-- 11/7
-- 11/12
-- 11/14
-- 11/19
-- 11/21
-- 11/26
-- 11/28 THANKSGIVING BREAK
-- 12/3
-- 12/5
-- 12/6-12/13 Project Reports Due (+ possible poster session TBD)
+- 10/29 Paper 1 
+- 10/31 Paper 2 
+  - Project Proposals Due
+- 11/5 Paper 3  
+- 11/7 Paper 4  
+- 11/12 Paper 5  
+- 11/14 Paper 6  
+- 11/19 Paper 7  
+- 11/21 Paper 8
+- 11/26 (buffer)
+- 11/28 THANKSGIVING BREAK  
+- 12/3 Possible poster session
+- 12/5 Possible poster session
+- 12/13 Project Reports Due
 
 # Courses / Blogs
 
