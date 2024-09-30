@@ -144,7 +144,7 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 [One-layer transformers fail to solve the induction heads task](https://arxiv.org/pdf/2408.14332)  
 [Thinking Like Transformers](https://srush.github.io/raspy/)  
 
-## Beyond PAC Learning: Learning Distributions and Grammars
+## Beyond PAC Learning: Learning Distributions and Grammars, Learning to Generate
 
 [On the Learnability of Discrete Distributions](https://dl.acm.org/doi/pdf/10.1145/195058.195155)  
 [Near-optimal Sample Complexity Bounds for Robust Learning of Gaussian Mixtures via Compression Schemes](https://dl.acm.org/doi/pdf/10.1145/3417994)  
@@ -152,6 +152,7 @@ Good(-Turing) (1953) [The Population Frequencies of Species and the Estimation o
 [Inherent limitations of dimensions for characterizing learnability of distribution classes](https://proceedings.mlr.press/v247/lechner24a/lechner24a.pdf)  
 [Grammatical Inference: Learning Automata and Grammars](https://www.cambridge.org/us/universitypress/subjects/computer-science/pattern-recognition-and-machine-learning/grammatical-inference-learning-automata-and-grammars?format=HB&isbn=9780521763165)  
 [Mathematical Linguistics](https://link.springer.com/book/10.1007/978-1-84628-986-6) especially Chapter 7 (Complexity) and Chapter 8 (Linguistic pattern recognition)  
+[Language Generation in the Limit](https://arxiv.org/pdf/2404.06757)  
 
 ## Emergence
 
