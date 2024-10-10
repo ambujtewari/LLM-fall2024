@@ -40,11 +40,12 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 - 10/3 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.1-4.3 [notes](https://www.dropbox.com/scl/fi/hcg1kig528gl4b3n75r7w/CT-Sec-4-1-to-4-3.pdf?rlkey=zkb1lnlsszs6sc6zwk4qldp0n&st=r5ne9ust&dl=0)  
 - 10/10 Project Pitches  
 - 10/15 FALL BREAK  
-- 10/17 Neural Networks, J&M Chapter 7 [annotated chapter](https://www.dropbox.com/scl/fi/1ynppiktk1f2hy8srkolv/7.pdf?rlkey=z9sz3d13mbirbm1g43653bsql&st=4zjhh7d3&dl=0)  
+- 10/17 Project Pitches
+- Neural Networks, J&M Chapter 7 [annotated chapter](https://www.dropbox.com/scl/fi/1ynppiktk1f2hy8srkolv/7.pdf?rlkey=z9sz3d13mbirbm1g43653bsql&st=4zjhh7d3&dl=0)  
   - RNNs and LSTMs, J&M Chapter 8 [annotated chapter](https://www.dropbox.com/scl/fi/pki1mdcxqtv1s64f768h9/8.pdf?rlkey=cjs5m9ubvb77sxe6tskt7kju4&st=6rzi9ycs&dl=0)  
-- 10/22 Transformers, J&M Chapter 9  
+- Transformers, J&M Chapter 9  
   - Large Language Models, J&M Chapter 10  
-- 10/24 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
+- Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
   - Project Proposals Due  
 
 
