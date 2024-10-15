@@ -62,7 +62,7 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 - 11/14 Slot 6  
 - 11/19 Slot 7  
 - 11/21 Slot 8
-- 11/26 (buffer)
+- 11/26 Slot 9
 - 11/28 THANKSGIVING BREAK  
 - 12/3 Possible poster session
 - 12/5 Possible poster session
