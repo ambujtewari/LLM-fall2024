@@ -63,7 +63,11 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
     - [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008)
 - 10/31
   - T4
-  - T5 
+    - [The Last JITAI?](https://arxiv.org/pdf/2402.08658)
+    - [Stochastic Online Instrumental Variable Regression: Regrets for Endogeneity and Bandit Feedback](https://arxiv.org/pdf/2302.09357v3)
+    - (tentative) [Bootstrapped Thompson Sampling and Deep Exploration](https://arxiv.org/pdf/1507.00300)
+    - (tentative) [Neural Thompson Sampling](https://arxiv.org/pdf/2010.00827)
+  - T5 [On the Dimensionality of Word Embeddings](https://arxiv.org/pdf/1812.04224)
 - 11/5
   - T9
   - T17  
@@ -74,11 +78,11 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
   - T14
   - T15  
 - 11/14
-  - T7
+  - T7 [Improving Pretraining Data Using Perplexity Correlations](https://arxiv.org/pdf/2409.05816)
   - T16  
 - 11/19
-  - T3
-  - T6  
+  - T3 [A statistical framework for weak-to-strong generalization](https://arxiv.org/pdf/2405.16236v1)
+  - T6 [Large Language Models as General Pattern Machines](https://doi.org/10.48550/arXiv.2307.04721)
 - 11/21
   - T8
   - T11
