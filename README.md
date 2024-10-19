@@ -91,23 +91,23 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 
 ## Team Roster with Project Titles
 
-T1 Soham, Sunrit: Evolution of Iteratively Trained Generative AI Models: Model Collapse?
-T2 Xuanyu, Yiling: Ranking of Large Language Models from Pairwise Comparisons
-T3 Elvin, Jason (Jiaxun), Kellen, Mihir: A Statistical Analysis for Weak-to-Strong Generalization
-T4 Gabe (Gabriel), Ki (Kihyuk), Marc: RL Considerations for LLM-Assisted pJITAIs
-T5 Jake (Jacob), Jaylin, Noah: Dimension Decisions: The Impact of Embedding Size on LLMs
-T6 Andrej:  Modern autoregressive architectures for the collective variable problem
-T7 Eduardo, Felipe, Harry, Xinhe: shIRT: similarity heuristics for data selection using IRT
-T8 Abhiti, Julian, Yash: Spectral Neural Operators with Transformers
-T9 Joe (Joseph): Applying Transformers to Spectral Data
-T10 Mojtaba, Tara: AI Generated Text Detection via Statistical Properties of LLM Outputs
-T11 Unique, Vinod: The Limitations of Self-Attention for Information Retrieval
-T12 Paolo, Sahana: Budget-Constrained Learning to Defer for Autoregressive Models
-T13 Qiyuan, Zhilin: A Unified Framework for Multimodal Learning: Integrating Image, Text, and Crowd-Sourced Annotations
-T14 Victor: Forecasting Solar Flares Using Time Series Foundation Models and LLM-Based Models
-T15 Jiwoo, Yue: AI Agent Evaluation
-T16 Daniel: Incorporating Domain Knowledge in Transformer-based models for Symbolic Regression
-T17 Yuezhou: Uncertainty Quantification
+T1 Soham, Sunrit: Evolution of Iteratively Trained Generative AI Models: Model Collapse?  
+T2 Xuanyu, Yiling: Ranking of Large Language Models from Pairwise Comparisons  
+T3 Elvin, Jason (Jiaxun), Kellen, Mihir: A Statistical Analysis for Weak-to-Strong Generalization  
+T4 Gabe (Gabriel), Ki (Kihyuk), Marc: RL Considerations for LLM-Assisted pJITAIs  
+T5 Jake (Jacob), Jaylin, Noah: Dimension Decisions: The Impact of Embedding Size on LLMs  
+T6 Andrej:  Modern autoregressive architectures for the collective variable problem  
+T7 Eduardo, Felipe, Harry, Xinhe: shIRT: similarity heuristics for data selection using IRT  
+T8 Abhiti, Julian, Yash: Spectral Neural Operators with Transformers  
+T9 Joe (Joseph): Applying Transformers to Spectral Data  
+T10 Mojtaba, Tara: AI Generated Text Detection via Statistical Properties of LLM Outputs  
+T11 Unique, Vinod: The Limitations of Self-Attention for Information Retrieval  
+T12 Paolo, Sahana: Budget-Constrained Learning to Defer for Autoregressive Models  
+T13 Qiyuan, Zhilin: A Unified Framework for Multimodal Learning: Integrating Image, Text, and Crowd-Sourced Annotations  
+T14 Victor: Forecasting Solar Flares Using Time Series Foundation Models and LLM-Based Models  
+T15 Jiwoo, Yue: AI Agent Evaluation  
+T16 Daniel: Incorporating Domain Knowledge in Transformer-based models for Symbolic Regression  
+T17 Yuezhou: Uncertainty Quantification  
 
 # Courses / Blogs
 
