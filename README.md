@@ -72,10 +72,15 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
   - T9 [SpectraTr: A novel deep learning model for qualitative analysis of drug spectroscopy based on transformer structure](https://worldscientific.com/doi/epdf/10.1142/S1793545822500213)
   - T17 
 - 11/7
-  - T12
+  - T12 [Conformal Language Modeling](https://arxiv.org/pdf/2306.10193)
   - T13
+    - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929)
+    - [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020)
+    - [Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers](https://arxiv.org/pdf/2103.00020)
 - 11/12
   - T14
+    - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/pdf/2310.07820v3)
+    - [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://openreview.net/pdf?id=Unb5CVPtae)
   - T15  
 - 11/14
   - T7 [Improving Pretraining Data Using Perplexity Correlations](https://arxiv.org/pdf/2409.05816)
@@ -87,9 +92,9 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
   - T8
     - [GNOT: A General Neural Operator Transformer for Operator Learning](https://proceedings.mlr.press/v202/hao23c/hao23c.pdf)
     - [Understanding Deep Neural Networks with Rectified Linear Units](https://arxiv.org/pdf/1611.01491)
-  - T11 [Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models](https://arxiv.org/pdf/2405.13798)
+  - T11 [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/pdf/2405.13798)
 - 11/26
-  - T10
+  - T10 [Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models](https://arxiv.org/pdf/2405.13798)
 - 11/28 THANKSGIVING BREAK  
 - 12/3 Possible poster session
 - 12/5 Possible poster session
