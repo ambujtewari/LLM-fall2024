@@ -70,7 +70,7 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
   - T5 [On the Dimensionality of Word Embeddings](https://arxiv.org/pdf/1812.04224)
 - 11/5
   - T9 [SpectraTr: A novel deep learning model for qualitative analysis of drug spectroscopy based on transformer structure](https://worldscientific.com/doi/epdf/10.1142/S1793545822500213)
-  - T17 
+  - T17 [Distinguishing the Knowable from the Unknowable with Language Models](https://arxiv.org/pdf/2402.03563)
 - 11/7
   - T12 [Conformal Language Modeling](https://arxiv.org/pdf/2306.10193)
   - T13
@@ -81,10 +81,12 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
   - T14
     - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/pdf/2310.07820v3)
     - [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://openreview.net/pdf?id=Unb5CVPtae)
-  - T15  
+  - T15
+    - [AI agents that matter](https://arxiv.org/abs/2407.01502)
+    - [Are more LLM calls all you need? Towards scaling laws of compound inference systems](https://arxiv.org/pdf/2403.02419)
 - 11/14
   - T7 [Improving Pretraining Data Using Perplexity Correlations](https://arxiv.org/pdf/2409.05816)
-  - T16  
+  - T16 [Controllable Neural Symbolic Regression](https://arxiv.org/pdf/2304.10336)
 - 11/19
   - T3 [A statistical framework for weak-to-strong generalization](https://arxiv.org/pdf/2405.16236v1)
   - T6 [Large Language Models as General Pattern Machines](https://doi.org/10.48550/arXiv.2307.04721)
