@@ -69,8 +69,8 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
     - (tentative) [Neural Thompson Sampling](https://arxiv.org/pdf/2010.00827)
   - T5 [On the Dimensionality of Word Embeddings](https://arxiv.org/pdf/1812.04224)
 - 11/5
-  - T9
-  - T17  
+  - T9 [SpectraTr: A novel deep learning model for qualitative analysis of drug spectroscopy based on transformer structure](https://worldscientific.com/doi/epdf/10.1142/S1793545822500213)
+  - T17 
 - 11/7
   - T12
   - T13
@@ -85,7 +85,9 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
   - T6 [Large Language Models as General Pattern Machines](https://doi.org/10.48550/arXiv.2307.04721)
 - 11/21
   - T8
-  - T11
+    - [GNOT: A General Neural Operator Transformer for Operator Learning](https://proceedings.mlr.press/v202/hao23c/hao23c.pdf)
+    - [Understanding Deep Neural Networks with Rectified Linear Units](https://arxiv.org/pdf/1611.01491)
+  - T11 [Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models](https://arxiv.org/pdf/2405.13798)
 - 11/26
   - T10
 - 11/28 THANKSGIVING BREAK  
