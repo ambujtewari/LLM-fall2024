@@ -54,19 +54,58 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 
 ## Part 2
 
-- 10/29 Slot 1
-- 10/31 Slot 2 
-- 11/5 Slot 3  
-- 11/7 Slot 4  
-- 11/12 Slot 5  
-- 11/14 Slot 6  
-- 11/19 Slot 7  
-- 11/21 Slot 8
-- 11/26 Slot 9
+- 10/29
+  - T1
+    - [AI models collapse when trained on recursively generated data](AI models collapse when trained on recursively generated data)
+    - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/pdf/2305.17493)
+  - T2
+- 10/31
+  - T4
+  - T5 
+- 11/5
+  - T9
+  - T17  
+- 11/7
+  - T12
+  - T13
+- 11/12
+  - T14
+  - T15  
+- 11/14
+  - T7
+  - T16  
+- 11/19
+  - T3
+  - T6  
+- 11/21
+  - T8
+  - T11
+- 11/26
+  - T10
 - 11/28 THANKSGIVING BREAK  
 - 12/3 Possible poster session
 - 12/5 Possible poster session
 - 12/13 Project Reports Due
+
+## Team Roster
+
+T1 Soham, Sunrit
+T2 Xuanyu, Yiling
+T3 Elvin, Jason (Jiaxun), Kellen, Mihir
+T4 Gabe (Gabriel), Ki (Kihyuk), Marc
+T5 Jake (Jacob), Jaylin, Noah
+T6 Andrej
+T7 Eduardo, Felipe, Harry, Xinhe
+T8 Abhiti, Julian, Yash
+T9 Joe (Joseph)
+T10 Mojtaba, Tara
+T11 Unique, Vinod
+T12 Paolo, Sahana
+T13 Qiyuan, Zhilin
+T14 Victor
+T15 Jiwoo, Yue
+T16 Daniel
+T17 Yuezhou
 
 # Courses / Blogs
 
