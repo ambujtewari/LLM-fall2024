@@ -42,7 +42,7 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 - 10/15 FALL BREAK  
 - 10/17 Project Pitches
 - 10/22 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
-- 10/24 Guest Lecture: Generation through the lens of learning theory
+- 10/24 Guest Lecture by Vinod Raman: [Generation through the lens of learning theory](https://arxiv.org/pdf/2410.13714)
 - 10/25 Project Proposals Due  
 
 **Supplementary Material**
@@ -56,9 +56,11 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 
 - 10/29
   - T1
-    - [AI models collapse when trained on recursively generated data](AI models collapse when trained on recursively generated data)
+    - [AI models collapse when trained on recursively generated data](https://doi.org/10.1038/s41586-024-07566-y)
     - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/pdf/2305.17493)
   - T2
+    - [Prediction-Powered Ranking of Large Language Models](https://arxiv.org/pdf/2402.17826)
+    - [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008)
 - 10/31
   - T4
   - T5 
@@ -87,25 +89,25 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 - 12/5 Possible poster session
 - 12/13 Project Reports Due
 
-## Team Roster
+## Team Roster with Project Titles
 
-T1 Soham, Sunrit
-T2 Xuanyu, Yiling
-T3 Elvin, Jason (Jiaxun), Kellen, Mihir
-T4 Gabe (Gabriel), Ki (Kihyuk), Marc
-T5 Jake (Jacob), Jaylin, Noah
-T6 Andrej
-T7 Eduardo, Felipe, Harry, Xinhe
-T8 Abhiti, Julian, Yash
-T9 Joe (Joseph)
-T10 Mojtaba, Tara
-T11 Unique, Vinod
-T12 Paolo, Sahana
-T13 Qiyuan, Zhilin
-T14 Victor
-T15 Jiwoo, Yue
-T16 Daniel
-T17 Yuezhou
+T1 Soham, Sunrit: Evolution of Iteratively Trained Generative AI Models: Model Collapse?
+T2 Xuanyu, Yiling: Ranking of Large Language Models from Pairwise Comparisons
+T3 Elvin, Jason (Jiaxun), Kellen, Mihir: A Statistical Analysis for Weak-to-Strong Generalization
+T4 Gabe (Gabriel), Ki (Kihyuk), Marc: RL Considerations for LLM-Assisted pJITAIs
+T5 Jake (Jacob), Jaylin, Noah: Dimension Decisions: The Impact of Embedding Size on LLMs
+T6 Andrej:  Modern autoregressive architectures for the collective variable problem
+T7 Eduardo, Felipe, Harry, Xinhe: shIRT: similarity heuristics for data selection using IRT
+T8 Abhiti, Julian, Yash: Spectral Neural Operators with Transformers
+T9 Joe (Joseph): Applying Transformers to Spectral Data
+T10 Mojtaba, Tara: AI Generated Text Detection via Statistical Properties of LLM Outputs
+T11 Unique, Vinod: The Limitations of Self-Attention for Information Retrieval
+T12 Paolo, Sahana: Budget-Constrained Learning to Defer for Autoregressive Models
+T13 Qiyuan, Zhilin: A Unified Framework for Multimodal Learning: Integrating Image, Text, and Crowd-Sourced Annotations
+T14 Victor: Forecasting Solar Flares Using Time Series Foundation Models and LLM-Based Models
+T15 Jiwoo, Yue: AI Agent Evaluation
+T16 Daniel: Incorporating Domain Knowledge in Transformer-based models for Symbolic Regression
+T17 Yuezhou: Uncertainty Quantification
 
 # Courses / Blogs
 
