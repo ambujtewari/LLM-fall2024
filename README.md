@@ -43,7 +43,7 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 - 10/17 Project Pitches
 - 10/22 Entropy Rates of a Stochastic Process, C&T Chapter 4, Sections 4.4-4.5 [notes](https://www.dropbox.com/scl/fi/lg3924896ze0jzr9wfhie/CT-Sec-4-4-to-4-5.pdf?rlkey=hi4z6zhuqptp8zlogsocrs2zj&st=dm2428zt&dl=0)  
 - 10/24 Guest Lecture by Vinod Raman: [Generation through the lens of learning theory](https://arxiv.org/pdf/2410.13714)
-- 10/25 Project Proposals Due  
+- 10/28 Project Proposals Due  
 
 **Supplementary Material**
 
