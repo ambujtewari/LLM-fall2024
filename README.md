@@ -98,8 +98,8 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 - 11/26
   - T10 [Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models](https://arxiv.org/pdf/2405.13798)
 - 11/28 THANKSGIVING BREAK  
-- 12/3 Possible poster session
-- 12/5 Possible poster session
+- 12/3 Poster Session I
+- 12/5 Poster Session II
 - 12/13 Project Reports Due
 
 ## Team Roster with Project Titles
