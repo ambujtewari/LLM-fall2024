@@ -58,6 +58,7 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
   - T1
     - [AI models collapse when trained on recursively generated data](https://doi.org/10.1038/s41586-024-07566-y)
     - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/pdf/2305.17493)
+    - [How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse](https://arxiv.org/pdf/2404.05090)  
   - T2
     - [Prediction-Powered Ranking of Large Language Models](https://arxiv.org/pdf/2402.17826)
     - [AutoEval Done Right: Using Synthetic Data for Model Evaluation](https://arxiv.org/pdf/2403.07008)
