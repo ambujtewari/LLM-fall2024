@@ -65,9 +65,8 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 - 10/31
   - T4
     - [The Last JITAI?](https://arxiv.org/pdf/2402.08658)
-    - [Stochastic Online Instrumental Variable Regression: Regrets for Endogeneity and Bandit Feedback](https://arxiv.org/pdf/2302.09357v3)
-    - (tentative) [Bootstrapped Thompson Sampling and Deep Exploration](https://arxiv.org/pdf/1507.00300)
-    - (tentative) [Neural Thompson Sampling](https://arxiv.org/pdf/2010.00827)
+    - [Thompson Sampling for Noncompliant Bandits](https://arxiv.org/pdf/1812.00856)  
+    - [Neural Thompson Sampling](https://arxiv.org/pdf/2010.00827)  
   - T5 [On the Dimensionality of Word Embeddings](https://arxiv.org/pdf/1812.04224)
 - 11/5
   - T9 [SpectraTr: A novel deep learning model for qualitative analysis of drug spectroscopy based on transformer structure](https://worldscientific.com/doi/epdf/10.1142/S1793545822500213)
