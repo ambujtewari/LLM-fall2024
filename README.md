@@ -76,7 +76,7 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
   - T13
     - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929)
     - [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020)
-    - [Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers](https://arxiv.org/pdf/2103.00020)
+    - [Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers](https://arxiv.org/pdf/2202.06076)
 - 11/12
   - T14
     - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/pdf/2310.07820v3)
