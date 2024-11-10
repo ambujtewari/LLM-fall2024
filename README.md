@@ -98,29 +98,32 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 - 11/26
   - T10 [Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models](https://arxiv.org/pdf/2405.13798)
 - 11/28 THANKSGIVING BREAK  
-- 12/3 Poster Session I
-- 12/5 Poster Session II
-- 12/13 Project Reports Due
 
-## Team Roster with Project Titles
+**Poster Session I: Understanding and improving LLMs, Dec 3**
 
-T1 Soham, Sunrit: Evolution of Iteratively Trained Generative AI Models: Model Collapse?  
-T2 Xuanyu, Yiling: Ranking of Large Language Models from Pairwise Comparisons  
-T3 Elvin, Jason (Jiaxun), Kellen, Mihir: A Statistical Analysis for Weak-to-Strong Generalization  
-T4 Gabe (Gabriel), Ki (Kihyuk), Marc: RL Considerations for LLM-Assisted pJITAIs  
-T5 Jake (Jacob), Jaylin, Noah: Dimension Decisions: The Impact of Embedding Size on LLMs  
-T6 Andrej:  Modern autoregressive architectures for the collective variable problem  
-T7 Eduardo, Felipe, Harry, Xinhe: shIRT: similarity heuristics for data selection using IRT  
-T8 Abhiti, Julian, Yash: Spectral Neural Operators with Transformers  
-T9 Joe (Joseph): Applying Transformers to Spectral Data  
-T10 Mojtaba, Tara: AI Generated Text Detection via Statistical Properties of LLM Outputs  
-T11 Unique, Vinod: The Limitations of Self-Attention for Information Retrieval  
-T12 Paolo, Sahana: Budget-Constrained Learning to Defer for Autoregressive Models  
-T13 Qiyuan, Zhilin: A Unified Framework for Multimodal Learning: Integrating Image, Text, and Crowd-Sourced Annotations  
-T14 Victor: Forecasting Solar Flares Using Time Series Foundation Models and LLM-Based Models  
-T15 Jiwoo, Yue: AI Agent Evaluation  
-T16 Daniel: Incorporating Domain Knowledge in Transformer-based models for Symbolic Regression  
-T17 Yuezhou: Uncertainty Quantification  
+T1 Soham, Sunrit: Evolution of Iteratively Trained Generative AI Models
+T2 Xuanyu, Yiling: Context-Aware Ranking of Large Language Models via Pairwise Comparison
+T3 Elvin, Jason, Kellen, Mihir: Is Linear Probing better than Fine-tuning for Weak-to-Strong Generalization?
+T5 Jake, Jaylin, Noah: Dimension Decisions: The Impact of Embedding Size on LLMs
+T7 Eduardo, Felipe, Harry, Xinhe: shIRT: similarity heuristics for data selection using IRT
+T10 Mojtaba, Tara: Beat LLMs in Their Own Game: Statistics-based Methods for AI Detection with Theoretical Guarantees
+T11 Unique, Vinod: The Limitations of Self-Attention for Information Retrieval
+T12 Paolo, Sahana: Budget-Constrained Learning to Defer for Autoregressive Models
+T17 Yuezhou: Classifying Uncertainty with In-Context Learning Methods
+
+**Poster Session II: Applying LLMs, Dec 5**
+
+T4 Gabe, Ki, Marc: Online RL Considerations for LLM-Assisted JITAIs
+T6 Andrej: Modern autoregressive architectures for the collective variable problem
+T8 Abhiti, Julian, Yash: daptive Spectral Neural Operators
+T9 Joe: Applying Transformers to Spectral Data
+T13 Qiyuan, Zhilin: A Unified Framework for Multimodal Learning: Integrating Image, Text, and Crowd-Sourced Annotations
+T14 Victor: Forecasting Solar Flares Using Time Series Foundation Models and LLM-Based Models
+T15 Jiwoo, Yue: AI Agent Evaluation
+T16 Daniel: Incorporating Domain Knowledge in Transformer-based models for Symbolic Regression
+
+**Project Reports Due, Dec 13**
+
 
 # Courses / Blogs
 
