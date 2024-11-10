@@ -115,7 +115,7 @@ T17 Yuezhou: Classifying Uncertainty with In-Context Learning Methods
 
 T4 Gabe, Ki, Marc: Online RL Considerations for LLM-Assisted JITAIs  
 T6 Andrej: Modern autoregressive architectures for the collective variable problem  
-T8 Abhiti, Julian, Yash: daptive Spectral Neural Operators  
+T8 Abhiti, Julian, Yash: Adaptive Spectral Neural Operators  
 T9 Joe: Applying Transformers to Spectral Data  
 T13 Qiyuan, Zhilin: A Unified Framework for Multimodal Learning: Integrating Image, Text, and Crowd-Sourced Annotations  
 T14 Victor: Forecasting Solar Flares Using Time Series Foundation Models and LLM-Based Models  
