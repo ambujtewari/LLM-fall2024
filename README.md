@@ -99,7 +99,7 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
   - T10 [Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models](https://arxiv.org/pdf/2405.13798)
 - 11/28 THANKSGIVING BREAK  
 
-**Poster Session I: Understanding and improving LLMs, Dec 3**
+**Dec 3, Poster Session I: Understanding and Improving LLMs & Transformers**
 
 T1 Soham, Sunrit: Evolution of Iteratively Trained Generative AI Models  
 T2 Xuanyu, Yiling: Context-Aware Ranking of Large Language Models via Pairwise Comparison  
@@ -111,7 +111,7 @@ T11 Unique, Vinod: The Limitations of Self-Attention for Information Retrieval
 T12 Paolo, Sahana: Budget-Constrained Learning to Defer for Autoregressive Models  
 T17 Yuezhou: Classifying Uncertainty with In-Context Learning Methods  
 
-**Poster Session II: Applying LLMs, Dec 5**
+**Dec 5, Poster Session II: Applying LLMs & Transformers**
 
 T4 Gabe, Ki, Marc: Online RL Considerations for LLM-Assisted JITAIs  
 T6 Andrej: Modern autoregressive architectures for the collective variable problem  
@@ -122,7 +122,7 @@ T14 Victor: Forecasting Solar Flares Using Time Series Foundation Models and LLM
 T15 Jiwoo, Yue: AI Agent Evaluation  
 T16 Daniel: Incorporating Domain Knowledge in Transformer-based models for Symbolic Regression  
 
-**Project Reports Due, Dec 13**
+**Dec 13, Project Reports Due**
 
 
 # Courses / Blogs
