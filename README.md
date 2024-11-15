@@ -93,7 +93,7 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 - 11/21
   - T8
     - [GNOT: A General Neural Operator Transformer for Operator Learning](https://proceedings.mlr.press/v202/hao23c/hao23c.pdf)
-    - [Understanding Deep Neural Networks with Rectified Linear Units](https://arxiv.org/pdf/1611.01491)
+    - [Transformers Implement Functional Gradient Descent to Learn Non-Linear Functions In Context](https://arxiv.org/pdf/2312.06528)  
   - T11 [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/pdf/2405.13798)
 - 11/26
   - T10 [Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models](https://arxiv.org/pdf/2405.13798)
