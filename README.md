@@ -88,7 +88,9 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
   - T7 [Improving Pretraining Data Using Perplexity Correlations](https://arxiv.org/pdf/2409.05816)
   - T16 [Controllable Neural Symbolic Regression](https://arxiv.org/pdf/2304.10336)
 - 11/19
-  - T3 [A statistical framework for weak-to-strong generalization](https://arxiv.org/pdf/2405.16236v1)
+  - T3
+    - [A statistical framework for weak-to-strong generalization](https://arxiv.org/pdf/2405.16236v1)
+    - [Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution](https://arxiv.org/pdf/2202.10054)  
   - T6 [Large Language Models as General Pattern Machines](https://doi.org/10.48550/arXiv.2307.04721)
 - 11/21
   - T8
