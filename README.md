@@ -50,7 +50,7 @@ C&T = [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/
 - Neural Networks, J&M Chapter 7 [annotated chapter](https://www.dropbox.com/scl/fi/1ynppiktk1f2hy8srkolv/7.pdf?rlkey=z9sz3d13mbirbm1g43653bsql&st=4zjhh7d3&dl=0)  
 - RNNs and LSTMs, J&M Chapter 8 [annotated chapter](https://www.dropbox.com/scl/fi/pki1mdcxqtv1s64f768h9/8.pdf?rlkey=cjs5m9ubvb77sxe6tskt7kju4&st=6rzi9ycs&dl=0)  
 - Transformers, J&M Chapter 9 [annotated chapter](https://www.dropbox.com/scl/fi/9toplelbyo4p1b1cr5w9v/9.pdf?rlkey=si8t3gdkpzhbjm97pgea1v4qg&st=netdevu9&dl=0)  
-- Large Language Models, J&M Chapter 10  
+- Large Language Models, J&M Chapter 10 [annotated chapter](https://www.dropbox.com/scl/fi/wucplimvsczdxi2c48ap9/10.pdf?rlkey=sa4jur7c67zjhc2tcj6y90rdt&st=bziqvx6c&dl=0)  
 
 ## Part 2
 
